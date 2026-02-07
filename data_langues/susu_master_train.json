@@ -1,0 +1,14 @@
+{
+  "language": "Susu",
+  "ia_training_data": {
+    "vocabulary": {
+      "telegram_adds": [
+        {
+          "fr": "​Manger",
+          "susu": "dége",
+          "timestamp": 1770476437
+        }
+      ]
+    }
+  }
+}
