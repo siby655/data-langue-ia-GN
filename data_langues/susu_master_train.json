@@ -114,6 +114,11 @@
           "fr": "Aujourd'hui",
           "susu": "sâa",
           "timestamp": 1770477671
+        },
+        {
+          "fr": "Demain",
+          "susu": "tina",
+          "timestamp": 1770477673
         }
       ]
     }
