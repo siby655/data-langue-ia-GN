@@ -734,6 +734,491 @@
           "fr": "Étoile",
           "susu": "Tunui",
           "timestamp": 1770509355
+        },
+        {
+          "fr": "Famille",
+          "susu": "Denbaya",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Mari",
+          "susu": "Khanyi",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Épouse",
+          "susu": "Ginè khanyi",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Vieux",
+          "susu": "Khumututé",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Vieille",
+          "susu": "Ginè khumututé",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Jeune homme",
+          "susu": "Foniké",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Jeune fille",
+          "susu": "Sungutun",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Jumeaux",
+          "susu": "Sabatinyi",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Parent",
+          "susu": "Barinyi",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Voisin",
+          "susu": "Dakhourégni",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Esprit",
+          "susu": "Khakhili",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Corps",
+          "susu": "Faté",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Tête",
+          "susu": "Khunyi",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Cheveux",
+          "susu": "Khunsè",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Visage",
+          "susu": "Yatagué",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Œil",
+          "susu": "Yè",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Nez",
+          "susu": "Tanle",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Oreille",
+          "susu": "Touli",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Bouche",
+          "susu": "Dè",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Dent",
+          "susu": "Gni",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Langue",
+          "susu": "Nèni",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Cou",
+          "susu": "Kön",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Épaule",
+          "susu": "Toulountanyi",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Bras",
+          "susu": "Bèlè",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Main",
+          "susu": "Bèlè fari",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Doigt",
+          "susu": "Bèlè goundou",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Poitrine",
+          "susu": "Kanké",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Cœur",
+          "susu": "Boundou",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Ventre",
+          "susu": "Kouri",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Dos",
+          "susu": "Khanbe",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Jambe",
+          "susu": "Sanyi",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Pied",
+          "susu": "Sanyi fari",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Sang",
+          "susu": "Wouli",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Os",
+          "susu": "Khékhé",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Peau",
+          "susu": "Kourou",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Maladie",
+          "susu": "Furé",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Médicament",
+          "susu": "Séri",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Hôpital",
+          "susu": "Furé bèn bankhi",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Fatigue",
+          "susu": "Taganyi",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Force",
+          "susu": "Sènbè",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Douleur",
+          "susu": "Khonon",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Sommeil",
+          "susu": "Xi",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Rêve",
+          "susu": "Khignè",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Savon",
+          "susu": "Safouni",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Serviette",
+          "susu": "Serviéti",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Miroir",
+          "susu": "Memunui",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Balai",
+          "susu": "Khonmé",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Assiette",
+          "susu": "Péléti",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Cuillère",
+          "susu": "Goudiari",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Fourchette",
+          "susu": "Sourounti",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Couteau",
+          "susu": "Biabi",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Marmite",
+          "susu": "Tounlou",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Verre",
+          "susu": "Galassi",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Sac",
+          "susu": "Boki",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Clé",
+          "susu": "Sabi",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Lampe",
+          "susu": "Lanpou",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Radio",
+          "susu": "Radiyo",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Télévision",
+          "susu": "Télévisioni",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Montre",
+          "susu": "Walokhi",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Argent (métal)",
+          "susu": "Gbeti",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Or",
+          "susu": "Khinimè",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Fer",
+          "susu": "Wouré",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Sable",
+          "susu": "Mégni",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Pierre",
+          "susu": "Gémé",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Poussière",
+          "susu": "Toukouri",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Fumée",
+          "susu": "Touti",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Nuage",
+          "susu": "Noundé",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Chaleur",
+          "susu": "Khonè",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Froid",
+          "susu": "Khènè",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Animal",
+          "susu": "Subé",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Chien",
+          "susu": "Woulé",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Chat",
+          "susu": "Nyari",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Cheval",
+          "susu": "Sô",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Vache",
+          "susu": "Ningué",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Mouton",
+          "susu": "Yèkhè",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Chèvre",
+          "susu": "Si",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Poule",
+          "susu": "Tokhè",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Coq",
+          "susu": "Tokhè khamè",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Œuf",
+          "susu": "Tokhè khili",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Oiseau",
+          "susu": "Khoni",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Serpent",
+          "susu": "Börü",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Lion",
+          "susu": "Yatadi",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Éléphant",
+          "susu": "Sili",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Singe",
+          "susu": "Khon-yi",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Moustique",
+          "susu": "Soumounui",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Mouche",
+          "susu": "Ouli",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Araignée",
+          "susu": "Talatala",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Travailleur",
+          "susu": "Walila",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Enseignant",
+          "susu": "Karamokho",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Élève",
+          "susu": "Karakhouden",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Chauffeur",
+          "susu": "Soféri",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Commerçant",
+          "susu": "Saramatila",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Pêcheur",
+          "susu": "Yèkhè fenla",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Cultivateur",
+          "susu": "Khaba walila",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Forgeron",
+          "susu": "Noumoun",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Tailleur",
+          "susu": "Dugui sèghèla",
+          "timestamp": 1770509469
+        },
+        {
+          "fr": "Docteur",
+          "susu": "Lokoti",
+          "timestamp": 1770509469
         }
       ]
     }
