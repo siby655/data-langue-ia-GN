@@ -2704,6 +2704,461 @@
           "fr": "Amitié",
           "susu": "Booréya",
           "timestamp": 1770510952
+        },
+        {
+          "fr": "Électricité",
+          "susu": "Couranti",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Ampoule",
+          "susu": "Lanpou",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Pile",
+          "susu": "Pili",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Batterie",
+          "susu": "Batéri",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Chargeur",
+          "susu": "Saridjila",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Ordinateur",
+          "susu": "Ordinatèri",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Internet",
+          "susu": "Internèti",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Réseau",
+          "susu": "Rézo",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Message",
+          "susu": "Khèiba",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Photo",
+          "susu": "Foto",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Caméra",
+          "susu": "Kaméra",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Musique",
+          "susu": "Miziki",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Guitare",
+          "susu": "Kondi",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Tambour",
+          "susu": "Sangban",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Balafon",
+          "susu": "Balangni",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Kora",
+          "susu": "Kora",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Danse traditionnelle",
+          "susu": "Boron",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Masque",
+          "susu": "Nimba",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Cérémonie",
+          "susu": "Kondé",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Coutume",
+          "susu": "Namanyi",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Ancêtres",
+          "susu": "Benbaé",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Histoire",
+          "susu": "Tarikhou",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Conte",
+          "susu": "Taalé",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Proverbe",
+          "susu": "Masanyi",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Chantre",
+          "susu": "Donli",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Circoncision",
+          "susu": "Sunna",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Excision",
+          "susu": "Bolokho",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Guérisseur",
+          "susu": "Séri-fala",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Marabout",
+          "susu": "Karamokho",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Sacrifice",
+          "susu": "Sarakha",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Bénédiction",
+          "susu": "Douwa",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Malédiction",
+          "susu": "Dankanyi",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Destin",
+          "susu": "Alakira",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Âme",
+          "susu": "Ni",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Ciel (paradis)",
+          "susu": "Ariyana",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Enfer",
+          "susu": "Djahanama",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Péché",
+          "susu": "Younoubi",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Pardon (religieux)",
+          "susu": "Mafé",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Jeûne",
+          "susu": "Sounyi",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Bible",
+          "susu": "Kitaaboui",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Coran",
+          "susu": "Kourana",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Croyance",
+          "susu": "Dan khayala",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Diable",
+          "susu": "Ibilissa",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Génie",
+          "susu": "Ginè",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Sorcier",
+          "susu": "Khakhoumè",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Fétiche",
+          "susu": "Koussi",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Tabou",
+          "susu": "Tana",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Totem",
+          "susu": "Tana",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Clan",
+          "susu": "Si",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Nom de famille",
+          "susu": "Khili",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Prénom",
+          "susu": "Khili singé",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Surnom",
+          "susu": "Khili ndé",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Âge",
+          "susu": "Bè yéri",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Date de naissance",
+          "susu": "Bari lökigni",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Lieu de naissance",
+          "susu": "Bari yiré",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Nationalité",
+          "susu": "Jamanyi",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Carte d'identité",
+          "susu": "Kariti",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Passeport",
+          "susu": "Passépori",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Visa",
+          "susu": "Visa",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Voyage",
+          "susu": "Biyaasi",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Avion",
+          "susu": "Avioni",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Aéroport",
+          "susu": "Avioni yiré",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Bateau",
+          "susu": "Kunka",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Port",
+          "susu": "Baa dabi",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Train",
+          "susu": "Téréni",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Gare",
+          "susu": "Gari",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Vélo",
+          "susu": "Bisikiléti",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Moto",
+          "susu": "Moto",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Camion",
+          "susu": "Kamionui",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Essence",
+          "susu": "Essansi",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Huile de moteur",
+          "susu": "Ture",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Pneu",
+          "susu": "Piné",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Frein",
+          "susu": "Firini",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Volant",
+          "susu": "Volan",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Accident",
+          "susu": "Aksidan",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Panne",
+          "susu": "Pana",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Garage",
+          "susu": "Garagi",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Mécanicien",
+          "susu": "Mékanisien",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Route nationale",
+          "susu": "Kira gbo",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Piste de brousse",
+          "susu": "Woudi kira",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Source d'eau",
+          "susu": "Yé mini yiré",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Puits",
+          "susu": "Kölö",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Seau",
+          "susu": "Bidonui",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Corde",
+          "susu": "Loukhou",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Brosse à dents",
+          "susu": "Gni makhala",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Dentifrice",
+          "susu": "Gni makhala yé",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Rasoir",
+          "susu": "Labari",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Peigne",
+          "susu": "Khunsè makhala",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Parfum",
+          "susu": "Labari",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Bijoux",
+          "susu": "Sé tofan",
+          "timestamp": 1770511335
+        },
+        {
+          "fr": "Bague",
+          "susu": "Bèlè rasokhou",
+          "timestamp": 1770511335
         }
       ]
     }
