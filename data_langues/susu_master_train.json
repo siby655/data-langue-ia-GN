@@ -1229,6 +1229,656 @@
           "fr": "Policier",
           "susu": "Poliss",
           "timestamp": 1770509509
+        },
+        {
+          "fr": "Marchander",
+          "susu": "Maxôrô",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Prix",
+          "susu": "Sarè",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Cher",
+          "susu": "Sarè khonon",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Moins cher",
+          "susu": "Sarè magoro",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Gratuit",
+          "susu": "Fofari",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Bénéfice",
+          "susu": "Profi",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Perte",
+          "susu": "Loussoro",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Acheteur",
+          "susu": "Sarala",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Vendeur",
+          "susu": "Matila",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Boutique",
+          "susu": "Bitiki",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Magasin",
+          "susu": "Magasinui",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Choisir",
+          "susu": "Sugandi",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Changer",
+          "susu": "Masara",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Peser",
+          "susu": "Manian",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Mesurer",
+          "susu": "Manon",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Compter",
+          "susu": "Dangoun",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Payer",
+          "susu": "Fi",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Prêter",
+          "susu": "Doni",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Dette",
+          "susu": "Doni fari",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Rendre",
+          "susu": "Ragoro",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Voler (dérober)",
+          "susu": "Mougnè",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Voleur",
+          "susu": "Mougnèla",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Police",
+          "susu": "Polissi",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Prison",
+          "susu": "Kasoso",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Juge",
+          "susu": "Kiti sa",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Loi",
+          "susu": "Séri",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Vérité",
+          "susu": "Nondé",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Mensonge",
+          "susu": "Woulé",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Secret",
+          "susu": "Goundo",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Chance",
+          "susu": "Maléké",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Malheur",
+          "susu": "Tana",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Guerre",
+          "susu": "Guéré",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Paix",
+          "susu": "Bôgnè sa",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Liberté",
+          "susu": "Khorogba",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "État",
+          "susu": "Yamanyi",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Pays",
+          "susu": "Bokhi",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Frontière",
+          "susu": "Nanmanyi",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Drapeau",
+          "susu": "Bandéri",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Église",
+          "susu": "Egilisi",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Mosquée",
+          "susu": "Misidi",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Prière",
+          "susu": "Sali",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Dieu",
+          "susu": "Alla",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Ange",
+          "susu": "Maléké",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Croyant",
+          "susu": "Dan khayala",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Fête",
+          "susu": "Sali lökigni",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Mariage",
+          "susu": "Futu",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Baptême",
+          "susu": "Di khili sa",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Mort",
+          "susu": "Fakhi",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Tombe",
+          "susu": "Gabouri",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Enterrement",
+          "susu": "Ragoro",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Pleurs",
+          "susu": "Wa",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Rire",
+          "susu": "Yèlè",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Joie",
+          "susu": "Sèwa",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Tristesse",
+          "susu": "Nimissa",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Colère",
+          "susu": "Khonè",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Peur",
+          "susu": "Gaakhou",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Courage",
+          "susu": "Limaniya",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Honte",
+          "susu": "Yaagui",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Respect",
+          "susu": "Bounyé",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Amour",
+          "susu": "Khannou",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Haine",
+          "susu": "Khonon",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Pensée",
+          "susu": "Maatigbi",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Intelligence",
+          "susu": "Khakhili",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Sagesse",
+          "susu": "Lönni",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Folie",
+          "susu": "Dakhonon",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Fou",
+          "susu": "Dakhonola",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Beauté",
+          "susu": "Toyinyi",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Laideur",
+          "susu": "To naya",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Grandeur",
+          "susu": "Ité",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Petit",
+          "susu": "Lanmè",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Gros",
+          "susu": "Gbo",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Maigre",
+          "susu": "Kharé",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Long",
+          "susu": "Kouyi",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Court",
+          "susu": "Doundou",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Dur",
+          "susu": "Khönö",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Mou",
+          "susu": "Nalo",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Chaud",
+          "susu": "Kholon",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Propre",
+          "susu": "Sèni",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Sale",
+          "susu": "Nounou",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Nouveau",
+          "susu": "Nènè",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Ancien",
+          "susu": "Foré",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Rapide",
+          "susu": "Mafoura",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Lent",
+          "susu": "Maatô",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Riche",
+          "susu": "Bannatigui",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Pauvre",
+          "susu": "Misikini",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Premier",
+          "susu": "Singé",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Dernier",
+          "susu": "Dambé",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Milieu",
+          "susu": "Tagui",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Gauche",
+          "susu": "Kölöma",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Droite",
+          "susu": "Yi-fanyi",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Haut",
+          "susu": "Fari",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Bas",
+          "susu": "Labé",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Devant",
+          "susu": "Yatagué",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Derrière",
+          "susu": "Khanbé",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Dedans",
+          "susu": "Koui",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Dehors",
+          "susu": "Tandé",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Partout",
+          "susu": "Dédé",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Nulle part",
+          "susu": "Dédé mou",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Voyager",
+          "susu": "Biyaasi",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Voyageur",
+          "susu": "Biyaasila",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Bagages",
+          "susu": "Kofé",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Route goudronnée",
+          "susu": "Goudroni",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Piste",
+          "susu": "Kiradi",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Carrefour",
+          "susu": "Kiranyi",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Pont",
+          "susu": "Ponti",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Traverser",
+          "susu": "Dangui",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Monter",
+          "susu": "Té",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Descendre",
+          "susu": "Jigui",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Tourner",
+          "susu": "Mafindi",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "S'arrêter",
+          "susu": "Ti",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Courir",
+          "susu": "Gui",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Marcher",
+          "susu": "Siga",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Sauter",
+          "susu": "Tougoun",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Nager",
+          "susu": "Yé makhassa",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "S'asseoir",
+          "susu": "Magoro",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Se lever",
+          "susu": "Kéli",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Se coucher",
+          "susu": "Sa",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Se laver",
+          "susu": "Makha",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Se raser",
+          "susu": "Binakhaba",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "S'habiller",
+          "susu": "Dugui ragoro",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Se déshabiller",
+          "susu": "Dugui ba",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Porter",
+          "susu": "Tongo",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Pousser",
+          "susu": "Mafoun",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Tirer",
+          "susu": "Mabandi",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Porter sur le dos",
+          "susu": "Bambon",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Porter sur la tête",
+          "susu": "Don",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Lancer",
+          "susu": "Woli",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Attraper",
+          "susu": "Soukhou",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Lâcher",
+          "susu": "Bégnè",
+          "timestamp": 1770510431
+        },
+        {
+          "fr": "Ouvrir",
+          "susu": "Rabi",
+          "timestamp": 1770510431
         }
       ]
     }
