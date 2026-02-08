@@ -134,6 +134,76 @@
           "fr": "La route",
           "susu": "Kira",
           "timestamp": 1770507630
+        },
+        {
+          "fr": "Français",
+          "susu": "Soussou",
+          "timestamp": 1770508823
+        },
+        {
+          "fr": "Bonjour (matin)",
+          "susu": "I kéna",
+          "timestamp": 1770508823
+        },
+        {
+          "fr": "Bon après-midi",
+          "susu": "I féyen",
+          "timestamp": 1770508823
+        },
+        {
+          "fr": "Bonsoir",
+          "susu": "I nunmaré",
+          "timestamp": 1770508823
+        },
+        {
+          "fr": "Comment ça va ?",
+          "susu": "Tana mou na ?",
+          "timestamp": 1770508823
+        },
+        {
+          "fr": "Ça va bien",
+          "susu": "Tana mou",
+          "timestamp": 1770508823
+        },
+        {
+          "fr": "Merci",
+          "susu": "I nou wali",
+          "timestamp": 1770508823
+        },
+        {
+          "fr": "De rien / Bienvenue",
+          "susu": "I fa nou wali",
+          "timestamp": 1770508823
+        },
+        {
+          "fr": "S'il vous plaît",
+          "susu": "N'ba",
+          "timestamp": 1770508823
+        },
+        {
+          "fr": "Pardon",
+          "susu": "Mafé",
+          "timestamp": 1770508823
+        },
+        {
+          "fr": "Oui",
+          "susu": "Iyo",
+          "timestamp": 1770508823
+        },
+        {
+          "fr": "Non",
+          "susu": "Adé",
+          "timestamp": 1770508823
+        },
+        {
+          "fr": "Au revoir",
+          "susu": "M'siga fé",
+          "timestamp": 1770508823
+        },
+        {
+          "fr": "À plus tard",
+          "susu": "Won luma",
+          "timestamp": 1770508823
         }
       ]
     }
