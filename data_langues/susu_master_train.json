@@ -414,6 +414,11 @@
           "fr": "Nourriture",
           "susu": "Don sé",
           "timestamp": 1770508986
+        },
+        {
+          "fr": "Faim",
+          "susu": "Kaamé",
+          "timestamp": 1770509003
         }
       ]
     }
