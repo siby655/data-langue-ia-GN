@@ -419,6 +419,66 @@
           "fr": "Faim",
           "susu": "Kaamé",
           "timestamp": 1770509003
+        },
+        {
+          "fr": "Hier",
+          "susu": "Khornè",
+          "timestamp": 1770509043
+        },
+        {
+          "fr": "Jour",
+          "susu": "Lökigni",
+          "timestamp": 1770509043
+        },
+        {
+          "fr": "Nuit",
+          "susu": "Kounyi",
+          "timestamp": 1770509043
+        },
+        {
+          "fr": "Matin",
+          "susu": "Guéguia",
+          "timestamp": 1770509043
+        },
+        {
+          "fr": "Soir",
+          "susu": "Nunmaré",
+          "timestamp": 1770509043
+        },
+        {
+          "fr": "Soleil",
+          "susu": "Sogué",
+          "timestamp": 1770509043
+        },
+        {
+          "fr": "Lune",
+          "susu": "Kiké",
+          "timestamp": 1770509043
+        },
+        {
+          "fr": "Pluie",
+          "susu": "Touni",
+          "timestamp": 1770509043
+        },
+        {
+          "fr": "Vent",
+          "susu": "Foyé",
+          "timestamp": 1770509043
+        },
+        {
+          "fr": "Terre",
+          "susu": "Bokhidi",
+          "timestamp": 1770509043
+        },
+        {
+          "fr": "Ciel",
+          "susu": "Koore",
+          "timestamp": 1770509043
+        },
+        {
+          "fr": "Arbre",
+          "susu": "Wouri",
+          "timestamp": 1770509043
         }
       ]
     }
