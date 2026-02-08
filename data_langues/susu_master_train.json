@@ -1219,6 +1219,16 @@
           "fr": "Docteur",
           "susu": "Lokoti",
           "timestamp": 1770509469
+        },
+        {
+          "fr": "Soldat",
+          "susu": "Sorda",
+          "timestamp": 1770509509
+        },
+        {
+          "fr": "Policier",
+          "susu": "Poliss",
+          "timestamp": 1770509509
         }
       ]
     }
