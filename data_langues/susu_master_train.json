@@ -354,6 +354,66 @@
           "fr": "Stylo",
           "susu": "Sèbèli ti",
           "timestamp": 1770508964
+        },
+        {
+          "fr": "Riz",
+          "susu": "Malé",
+          "timestamp": 1770508986
+        },
+        {
+          "fr": "Pain",
+          "susu": "Taami",
+          "timestamp": 1770508986
+        },
+        {
+          "fr": "Viande",
+          "susu": "Subé",
+          "timestamp": 1770508986
+        },
+        {
+          "fr": "Poisson",
+          "susu": "Yèkhè",
+          "timestamp": 1770508986
+        },
+        {
+          "fr": "Sel",
+          "susu": "Fokhè",
+          "timestamp": 1770508986
+        },
+        {
+          "fr": "Sucre",
+          "susu": "Sokharé",
+          "timestamp": 1770508986
+        },
+        {
+          "fr": "Sauce",
+          "susu": "Boré",
+          "timestamp": 1770508986
+        },
+        {
+          "fr": "Mangue",
+          "susu": "Mángwèé",
+          "timestamp": 1770508986
+        },
+        {
+          "fr": "Oranger",
+          "susu": "Lèmon",
+          "timestamp": 1770508986
+        },
+        {
+          "fr": "Café",
+          "susu": "Kafé",
+          "timestamp": 1770508986
+        },
+        {
+          "fr": "Lait",
+          "susu": "Yakhé",
+          "timestamp": 1770508986
+        },
+        {
+          "fr": "Nourriture",
+          "susu": "Don sé",
+          "timestamp": 1770508986
         }
       ]
     }
