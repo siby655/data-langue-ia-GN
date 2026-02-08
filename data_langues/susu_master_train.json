@@ -484,6 +484,71 @@
           "fr": "Forêt",
           "susu": "Woudi",
           "timestamp": 1770509062
+        },
+        {
+          "fr": "Aller",
+          "susu": "Siga",
+          "timestamp": 1770509080
+        },
+        {
+          "fr": "Venir",
+          "susu": "Fa",
+          "timestamp": 1770509080
+        },
+        {
+          "fr": "Voir",
+          "susu": "To",
+          "timestamp": 1770509080
+        },
+        {
+          "fr": "Parler",
+          "susu": "Falé",
+          "timestamp": 1770509080
+        },
+        {
+          "fr": "Écouter",
+          "susu": "Touloti",
+          "timestamp": 1770509080
+        },
+        {
+          "fr": "Travailler",
+          "susu": "Wali",
+          "timestamp": 1770509080
+        },
+        {
+          "fr": "Acheter",
+          "susu": "Sara",
+          "timestamp": 1770509080
+        },
+        {
+          "fr": "Vendre",
+          "susu": "Mati",
+          "timestamp": 1770509080
+        },
+        {
+          "fr": "Donner",
+          "susu": "Ki",
+          "timestamp": 1770509080
+        },
+        {
+          "fr": "Prendre",
+          "susu": "Tongo",
+          "timestamp": 1770509080
+        },
+        {
+          "fr": "Appeler",
+          "susu": "Khili",
+          "timestamp": 1770509080
+        },
+        {
+          "fr": "Savoir",
+          "susu": "Kolon",
+          "timestamp": 1770509080
+        },
+        {
+          "fr": "Aimer",
+          "susu": "Lan",
+          "timestamp": 1770509080
         }
       ]
     }
