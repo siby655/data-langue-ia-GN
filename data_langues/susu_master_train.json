@@ -1879,6 +1879,826 @@
           "fr": "Ouvrir",
           "susu": "Rabi",
           "timestamp": 1770510431
+        },
+        {
+          "fr": "Fermer",
+          "susu": "Balan",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Entrer",
+          "susu": "So",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Sortir",
+          "susu": "Mini",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Perdre",
+          "susu": "Loe",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Trouver",
+          "susu": "To",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Chercher",
+          "susu": "Fen",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Montrer",
+          "susu": "Masèn",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Cacher",
+          "susu": "Doukou",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Construire",
+          "susu": "Ti",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Détruire",
+          "susu": "Kana",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Réparer",
+          "susu": "Yalan",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Casser",
+          "susu": "Gira",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Couper",
+          "susu": "Khaba",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Déchirer",
+          "susu": "Ibokhidi",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Coudre",
+          "susu": "Sèghè",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Écrire",
+          "susu": "Sèbè",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Lire",
+          "susu": "Karan",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Apprendre",
+          "susu": "Karan",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Enseigner",
+          "susu": "Masèn",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Comprendre",
+          "susu": "Faamou",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Oublier",
+          "susu": "Nènou",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Se souvenir",
+          "susu": "Ratou",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Croire",
+          "susu": "La",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Espérer",
+          "susu": "Khanyi",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Craindre",
+          "susu": "Gaakhou",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Demander",
+          "susu": "Maxôrô",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Répondre",
+          "susu": "Yabi",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Dire",
+          "susu": "Falé",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Chanter",
+          "susu": "Bèni",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Danser",
+          "susu": "Boron",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Jouer",
+          "susu": "Tolon",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Gagner",
+          "susu": "Sôrô",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Perdre (jeu)",
+          "susu": "Loe",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Voler (air)",
+          "susu": "Tougou",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Tomber",
+          "susu": "Birin",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Brûler",
+          "susu": "Gan",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Allumer",
+          "susu": "Dèkhè",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Éteindre",
+          "susu": "Mafu",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Balayer",
+          "susu": "Khonmé",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Laver",
+          "susu": "Makha",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Essuyer",
+          "susu": "Makhoron",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Goûter",
+          "susu": "Maton",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Sentir",
+          "susu": "Mamèn",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Toucher",
+          "susu": "Mansoukhou",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Piquer",
+          "susu": "Soun",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Frapper",
+          "susu": "Bönö",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Tuer",
+          "susu": "Fakhi",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Mourir",
+          "susu": "Fakhi",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Naître",
+          "susu": "Bari",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Grandir",
+          "susu": "Mokhono",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Vieillir",
+          "susu": "Foré",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Guérir",
+          "susu": "Rayalan",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Souffrir",
+          "susu": "Tôrô",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Se reposer",
+          "susu": "Matou",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Cultiver",
+          "susu": "Khaba",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Semer",
+          "susu": "Sansi",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Récolter",
+          "susu": "Mago",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Chasser",
+          "susu": "Subé fen",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Pêcher",
+          "susu": "Yèkhè fen",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Forger",
+          "susu": "Noumounya",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Tisser",
+          "susu": "Dugui lan",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Piloter",
+          "susu": "Siga",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Conduire",
+          "susu": "Siga",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Gouverner",
+          "susu": "Yamanyi",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Commander",
+          "susu": "Yaamari",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Obéir",
+          "susu": "Matin",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Refuser",
+          "susu": "Tonon",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Accepter",
+          "susu": "Tin",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Promettre",
+          "susu": "Laidi",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Mentir",
+          "susu": "Woulé falé",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Jurer",
+          "susu": "Kali",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Se battre",
+          "susu": "Guéré",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Insulter",
+          "susu": "Konbi",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Féliciter",
+          "susu": "Matanou",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Remercier",
+          "susu": "Wali",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Saluer",
+          "susu": "Maatoli",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Inviter",
+          "susu": "Khili",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Recevoir",
+          "susu": "Sôrô",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Partager",
+          "susu": "Itagui",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Mélanger",
+          "susu": "Mafoun",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Séparer",
+          "susu": "Ibokhidi",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Commencer",
+          "susu": "Singé",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Finir",
+          "susu": "Gbe",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Continuer",
+          "susu": "Siga fari",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Arrêter",
+          "susu": "Ti",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Rester",
+          "susu": "Lou",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Partir",
+          "susu": "Siga",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Revenir",
+          "susu": "Gbilen",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Rentrer",
+          "susu": "Gbilen bankhi",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Attendre",
+          "susu": "Mamèn",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Se dépêcher",
+          "susu": "Mafoura",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Tôt",
+          "susu": "Guéguia",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Tard",
+          "susu": "Nunmaré",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Souvent",
+          "susu": "Téma",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Parfois",
+          "susu": "Lökigni ndé",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Jamais",
+          "susu": "Abada",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Toujours",
+          "susu": "Téma",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Déjà",
+          "susu": "Singé",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Encore",
+          "susu": "Man",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Beaucoup",
+          "susu": "Gbe",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Peu",
+          "susu": "Lanmè",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Trop",
+          "susu": "Dangui",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Assez",
+          "susu": "Lan",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Rien",
+          "susu": "Sé mou",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Quelque chose",
+          "susu": "Sé ndé",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Tout",
+          "susu": "Birin",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Quelqu'un",
+          "susu": "Mikhi ndé",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Ici",
+          "susu": "Bé",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Là",
+          "susu": "Mènni",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Là-bas",
+          "susu": "Na",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Où",
+          "susu": "Mini",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Quand",
+          "susu": "Mouma",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Comment",
+          "susu": "Di",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Pourquoi",
+          "susu": "Munfé",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Combien",
+          "susu": "Yéri",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Qui",
+          "susu": "Nde",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Quoi",
+          "susu": "Mun",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Lequel",
+          "susu": "Mundi",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Blanc",
+          "susu": "Fikhé",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Noir",
+          "susu": "Foré",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Rouge",
+          "susu": "Guéli",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Vert",
+          "susu": "Kisi",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Jaune",
+          "susu": "Khinimè",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Bleu",
+          "susu": "Bulu",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Ciel (couleur)",
+          "susu": "Koore",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Clair",
+          "susu": "Fikhé",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Sombre",
+          "susu": "Foré",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Brillant",
+          "susu": "Mayilanyi",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Mat",
+          "susu": "Foré",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Lundi",
+          "susu": "Tènèni",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Mardi",
+          "susu": "Talata",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Mercredi",
+          "susu": "Araba",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Jeudi",
+          "susu": "Amissa",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Vendredi",
+          "susu": "Aradjouma",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Samedi",
+          "susu": "Sibiti",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Dimanche",
+          "susu": "Lahadi",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Semaine",
+          "susu": "Lokoné soloféré",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Mois",
+          "susu": "Kiké",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Année",
+          "susu": "Bè",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Saison sèche",
+          "susu": "Khélé",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Saison des pluies",
+          "susu": "Ugni",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Fête de Tabaski",
+          "susu": "Salifana",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Fête de Korité",
+          "susu": "Salidimèé",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Vent du nord",
+          "susu": "Foyé",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Marée haute",
+          "susu": "Yé té",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Marée basse",
+          "susu": "Yé jigui",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Mer",
+          "susu": "Baa",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Fleuve",
+          "susu": "Khouré",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Forêt sacrée",
+          "susu": "Woudi sèni",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Montagne",
+          "susu": "Guéya",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Plaine",
+          "susu": "Fara",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Île",
+          "susu": "Îli",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Villageois",
+          "susu": "Taaré mikhi",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Citadin",
+          "susu": "Taaba mikhi",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Gouverneur",
+          "susu": "Gouvernèri",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Préfet",
+          "susu": "Préféti",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Maire",
+          "susu": "Méri",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Ministre",
+          "susu": "Ministri",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Président",
+          "susu": "Présidanti",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "République",
+          "susu": "Républiki",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Justice",
+          "susu": "Séri",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Progrès",
+          "susu": "Guènè",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "Santé",
+          "susu": "Khènèya",
+          "timestamp": 1770510810
+        },
+        {
+          "fr": "École Coranique",
+          "susu": "Doudala",
+          "timestamp": 1770510810
         }
       ]
     }
