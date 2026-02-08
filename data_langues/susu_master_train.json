@@ -209,6 +209,76 @@
           "fr": "Dors bien",
           "susu": "Heri xi",
           "timestamp": 1770508866
+        },
+        {
+          "fr": "Moi",
+          "susu": "N’tan",
+          "timestamp": 1770508885
+        },
+        {
+          "fr": "Toi",
+          "susu": "I tan",
+          "timestamp": 1770508885
+        },
+        {
+          "fr": "Lui / Elle",
+          "susu": "A tan",
+          "timestamp": 1770508885
+        },
+        {
+          "fr": "Nous",
+          "susu": "Mouxou tan",
+          "timestamp": 1770508885
+        },
+        {
+          "fr": "Vous",
+          "susu": "Wo tan",
+          "timestamp": 1770508885
+        },
+        {
+          "fr": "Eux",
+          "susu": "E tan",
+          "timestamp": 1770508885
+        },
+        {
+          "fr": "Homme",
+          "susu": "Khamè",
+          "timestamp": 1770508885
+        },
+        {
+          "fr": "Femme",
+          "susu": "Ginè",
+          "timestamp": 1770508885
+        },
+        {
+          "fr": "Enfant",
+          "susu": "Dimèé",
+          "timestamp": 1770508885
+        },
+        {
+          "fr": "Père",
+          "susu": "Baba",
+          "timestamp": 1770508885
+        },
+        {
+          "fr": "Mère",
+          "susu": "Nga",
+          "timestamp": 1770508885
+        },
+        {
+          "fr": "Grand frère",
+          "susu": "Taara",
+          "timestamp": 1770508885
+        },
+        {
+          "fr": "Petite sœur",
+          "susu": "Khadi",
+          "timestamp": 1770508885
+        },
+        {
+          "fr": "Ami",
+          "susu": "Booré",
+          "timestamp": 1770508885
         }
       ]
     }
