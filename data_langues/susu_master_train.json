@@ -3159,6 +3159,236 @@
           "fr": "Bague",
           "susu": "Bèlè rasokhou",
           "timestamp": 1770511335
+        },
+        {
+          "fr": "Collier",
+          "susu": "Kön rasokhou",
+          "timestamp": 1770511401
+        },
+        {
+          "fr": "Boucles d'oreilles",
+          "susu": "Touli rasokhou",
+          "timestamp": 1770511401
+        },
+        {
+          "fr": "Bracelet",
+          "susu": "Bèlè rasokhou",
+          "timestamp": 1770511401
+        },
+        {
+          "fr": "Lunettes",
+          "susu": "Verre",
+          "timestamp": 1770511401
+        },
+        {
+          "fr": "Parapluie",
+          "susu": "Touni makhalan",
+          "timestamp": 1770511401
+        },
+        {
+          "fr": "Sac à main",
+          "susu": "Boki",
+          "timestamp": 1770511401
+        },
+        {
+          "fr": "Valise",
+          "susu": "Valisi",
+          "timestamp": 1770511401
+        },
+        {
+          "fr": "Portefeuille",
+          "susu": "Kobiri boki",
+          "timestamp": 1770511401
+        },
+        {
+          "fr": "Argent liquide",
+          "susu": "Kobiri gbe",
+          "timestamp": 1770511401
+        },
+        {
+          "fr": "Pièce de monnaie",
+          "susu": "Kobiri goundou",
+          "timestamp": 1770511401
+        },
+        {
+          "fr": "Billet de banque",
+          "susu": "Kobiri khèidi",
+          "timestamp": 1770511401
+        },
+        {
+          "fr": "Change",
+          "susu": "Masara",
+          "timestamp": 1770511401
+        },
+        {
+          "fr": "Dépense",
+          "susu": "Kobiri mini",
+          "timestamp": 1770511401
+        },
+        {
+          "fr": "Économie",
+          "susu": "Kobiri ragata",
+          "timestamp": 1770511401
+        },
+        {
+          "fr": "Banque",
+          "susu": "Banki",
+          "timestamp": 1770511401
+        },
+        {
+          "fr": "Crédit",
+          "susu": "Doni",
+          "timestamp": 1770511401
+        },
+        {
+          "fr": "Remboursement",
+          "susu": "Ragoro",
+          "timestamp": 1770511401
+        },
+        {
+          "fr": "Richesse",
+          "susu": "Bannatiguéya",
+          "timestamp": 1770511401
+        },
+        {
+          "fr": "Pauvreté",
+          "susu": "Misikiniya",
+          "timestamp": 1770511401
+        },
+        {
+          "fr": "Chômage",
+          "susu": "Wali mou",
+          "timestamp": 1770511401
+        },
+        {
+          "fr": "Salaire",
+          "susu": "Wali sarè",
+          "timestamp": 1770511401
+        },
+        {
+          "fr": "Patron",
+          "susu": "Wali mangué",
+          "timestamp": 1770511401
+        },
+        {
+          "fr": "Employé",
+          "susu": "Walila",
+          "timestamp": 1770511401
+        },
+        {
+          "fr": "Réunion",
+          "susu": "Malanyi",
+          "timestamp": 1770511401
+        },
+        {
+          "fr": "Bureau",
+          "susu": "Biro",
+          "timestamp": 1770511401
+        },
+        {
+          "fr": "Signature",
+          "susu": "Sèbèli",
+          "timestamp": 1770511401
+        },
+        {
+          "fr": "Tampon",
+          "susu": "Kasé",
+          "timestamp": 1770511401
+        },
+        {
+          "fr": "Document",
+          "susu": "Khèidi",
+          "timestamp": 1770511401
+        },
+        {
+          "fr": "Crayon",
+          "susu": "Krayonui",
+          "timestamp": 1770511401
+        },
+        {
+          "fr": "Gomme",
+          "susu": "Masarala",
+          "timestamp": 1770511401
+        },
+        {
+          "fr": "Règle",
+          "susu": "Manonla",
+          "timestamp": 1770511401
+        },
+        {
+          "fr": "Cahier",
+          "susu": "Kaye",
+          "timestamp": 1770511401
+        },
+        {
+          "fr": "Classe",
+          "susu": "Klasé",
+          "timestamp": 1770511401
+        },
+        {
+          "fr": "Tableau",
+          "susu": "Tabalo",
+          "timestamp": 1770511401
+        },
+        {
+          "fr": "Craie",
+          "susu": "Kiri",
+          "timestamp": 1770511401
+        },
+        {
+          "fr": "Examen",
+          "susu": "Eksaman",
+          "timestamp": 1770511401
+        },
+        {
+          "fr": "Diplôme",
+          "susu": "Diplomi",
+          "timestamp": 1770511401
+        },
+        {
+          "fr": "Étudiant",
+          "susu": "Karakhouden",
+          "timestamp": 1770511401
+        },
+        {
+          "fr": "Professeur",
+          "susu": "Karamokho",
+          "timestamp": 1770511401
+        },
+        {
+          "fr": "Université",
+          "susu": "Iniversité",
+          "timestamp": 1770511401
+        },
+        {
+          "fr": "Connaissance",
+          "susu": "Lönni",
+          "timestamp": 1770511401
+        },
+        {
+          "fr": "Langue (parlée)",
+          "susu": "Chabi",
+          "timestamp": 1770511401
+        },
+        {
+          "fr": "Mot",
+          "susu": "Masanyi",
+          "timestamp": 1770511401
+        },
+        {
+          "fr": "Phrase",
+          "susu": "Falé",
+          "timestamp": 1770511401
+        },
+        {
+          "fr": "Question",
+          "susu": "Maxôrô",
+          "timestamp": 1770511401
+        },
+        {
+          "fr": "Réponse",
+          "susu": "Yabi",
+          "timestamp": 1770511401
         }
       ]
     }
