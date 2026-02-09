@@ -543,6 +543,198 @@
     {
       "fr": "9. Soleil",
       "tr": "Suuni"
+    },
+    {
+      "fr": "3. Au revoir",
+      "tr": "Baaya"
+    },
+    {
+      "fr": "4. Comment vas-tu ?",
+      "tr": "O waali ?"
+    },
+    {
+      "fr": "5. Je vais bien",
+      "tr": "Maa waali"
+    },
+    {
+      "fr": "6. Qu'est-ce que tu fais ?",
+      "tr": "O ngalaa ?"
+    },
+    {
+      "fr": "7. Je suis étudiant",
+      "tr": "Maa ngal koowal"
+    },
+    {
+      "fr": "8. Je m'appelle",
+      "tr": "Maa ɗon ƴaa"
+    },
+    {
+      "fr": "9. Je suis perdu",
+      "tr": "Maa ɓuri"
+    },
+    {
+      "fr": "10. Pouvez-vous m'aider ?",
+      "tr": "O yaa ko ali ?"
+    },
+    {
+      "fr": "11. Oui, bien sûr",
+      "tr": "Ee, ɗum"
+    },
+    {
+      "fr": "12. Non, désolé",
+      "tr": "Aa, ɓeɗi"
+    },
+    {
+      "fr": "13. Je ne comprends pas",
+      "tr": "Maa ɗooni"
+    },
+    {
+      "fr": "14. Pouvez-vous répéter ?",
+      "tr": "O yaa ko ɓaal ?"
+    },
+    {
+      "fr": "15. Je suis fatigué",
+      "tr": "Maa ɓaal"
+    },
+    {
+      "fr": "16. Je suis affamé",
+      "tr": "Maa ɗuuɗi"
+    },
+    {
+      "fr": "17. Je veux boire",
+      "tr": "Maa waɗi"
+    },
+    {
+      "fr": "18. Je veux manger",
+      "tr": "Maa ɗuuɗi"
+    },
+    {
+      "fr": "19. Où est... ?",
+      "tr": "O waali... ?"
+    },
+    {
+      "fr": "20. Qu'est-ce que c'est ?",
+      "tr": "O ngalaa nguu ?"
+    },
+    {
+      "fr": "21. Je ne sais pas",
+      "tr": "Maa ɗooni"
+    },
+    {
+      "fr": "22. Je suis désolé",
+      "tr": "Maa ɓeɗi"
+    },
+    {
+      "fr": "23. Excusez-moi",
+      "tr": "O yaa ɗum"
+    },
+    {
+      "fr": "24. Je m'excuse",
+      "tr": "Maa ɓeɗi"
+    },
+    {
+      "fr": "25. Pouvez-vous parler plus lentement ?",
+      "tr": "O yaa ko ɓaal ɗum ?"
+    },
+    {
+      "fr": "26. Je ne parle pas bien le pular",
+      "tr": "Maa ɗooni wo pular"
+    },
+    {
+      "fr": "27. Pouvez-vous écrire cela ?",
+      "tr": "O yaa ko ɓeɗe ?"
+    },
+    {
+      "fr": "28. Je voudrais une carafe d'eau",
+      "tr": "Maa waɗa o ɓeɗe"
+    },
+    {
+      "fr": "29. Je voudrais un verre",
+      "tr": "Maa waɗa o ɓuuɗi"
+    },
+    {
+      "fr": "30. Pouvez-vous me donner le menu ?",
+      "tr": "O yaa ko ɗooni menu ?"
+    },
+    {
+      "fr": "31. Je voudrais commander",
+      "tr": "Maa waɗa o koowal"
+    },
+    {
+      "fr": "32. Je voudrais la carte",
+      "tr": "Maa waɗa o ɗeɗe"
+    },
+    {
+      "fr": "33. Pouvez-vous m'aider à trouver... ?",
+      "tr": "O yaa ko ali ɓuri... ?"
+    },
+    {
+      "fr": "34. Je suis perdu dans la ville",
+      "tr": "Maa ɓuri to Diiwal"
+    },
+    {
+      "fr": "35. Je cherche un hôtel",
+      "tr": "Maa ɗaal hotel"
+    },
+    {
+      "fr": "36. Pouvez-vous m'aider à trouver un taxi ?",
+      "tr": "O yaa ko ali taksi ?"
+    },
+    {
+      "fr": "37. Je voudrais aller à...",
+      "tr": "Maa waɗa o ɓeɗe..."
+    },
+    {
+      "fr": "38. Pouvez-vous me donner des directions ?",
+      "tr": "O yaa ko ɗooni ɓeɗe ?"
+    },
+    {
+      "fr": "39. Je suis perdu dans la forêt",
+      "tr": "Maa ɓuri to ɓosso"
+    },
+    {
+      "fr": "40. Je cherche un chemin",
+      "tr": "Maa ɗaal ɓeɗe"
+    },
+    {
+      "fr": "41. Pouvez-vous m'aider à trouver un médecin ?",
+      "tr": "O yaa ko ali ɓeɗe ɗoktooro ?"
+    },
+    {
+      "fr": "42. Je me sens mal",
+      "tr": "Maa ɓaal ɗuum"
+    },
+    {
+      "fr": "43. Je suis blessé",
+      "tr": "Maa ɓeɗi ɗuum"
+    },
+    {
+      "fr": "44. Pouvez-vous m'aider à trouver un hôpital ?",
+      "tr": "O yaa ko ali ɓeɗe ɗoktooro ?"
+    },
+    {
+      "fr": "45. Je voudrais appeler un ambulancier",
+      "tr": "Maa waɗa o koowal ambulanc"
+    },
+    {
+      "fr": "46. Je suis en difficulté",
+      "tr": "Maa ɓeɗi ɗuum"
+    },
+    {
+      "fr": "47. Pouvez-vous m'aider à trouver de l'aide ?",
+      "tr": "O yaa ko ali ɓeɗe ɗuum ?"
+    },
+    {
+      "fr": "48. Je cherche un endroit pour dormir",
+      "tr": "Maa ɗaal ɓeɗe ɗuum"
+    },
+    {
+      "fr": "49. Pouvez-vous m'aider à trouver un endroit pour manger ?",
+      "tr": "O yaa ko ali ɓeɗe ɗuuɗi ?"
+    },
+    {
+      "fr": "50. Je voudrais rentrer chez moi",
+      "tr": "Maa waɗa o ɓeɗe ɗuum"
     }
   ]
 }
