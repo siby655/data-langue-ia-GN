@@ -5,38 +5,6 @@
       "tr": "Peuple"
     },
     {
-      "fr": "2. FR",
-      "tr": "Tradition"
-    },
-    {
-      "fr": "3. FR",
-      "tr": "Culture"
-    },
-    {
-      "fr": "4. FR",
-      "tr": "Bassari"
-    },
-    {
-      "fr": "5. FR",
-      "tr": "Guinée"
-    },
-    {
-      "fr": "6. FR",
-      "tr": "Afrique"
-    },
-    {
-      "fr": "7. FR",
-      "tr": "Village"
-    },
-    {
-      "fr": "8. FR",
-      "tr": "Communauté"
-    },
-    {
-      "fr": "9. FR",
-      "tr": "Histoire"
-    },
-    {
       "fr": "10. FR",
       "tr": "Langue"
     },
@@ -75,6 +43,10 @@
     {
       "fr": "19. FR",
       "tr": "Plante"
+    },
+    {
+      "fr": "2. FR",
+      "tr": "Tradition"
     },
     {
       "fr": "20. FR",
@@ -117,8 +89,36 @@
       "tr": "Environnement"
     },
     {
+      "fr": "3. FR",
+      "tr": "Culture"
+    },
+    {
       "fr": "30. FR",
       "tr": "Patrimoine"
+    },
+    {
+      "fr": "4. FR",
+      "tr": "Bassari"
+    },
+    {
+      "fr": "5. FR",
+      "tr": "Guinée"
+    },
+    {
+      "fr": "6. FR",
+      "tr": "Afrique"
+    },
+    {
+      "fr": "7. FR",
+      "tr": "Village"
+    },
+    {
+      "fr": "8. FR",
+      "tr": "Communauté"
+    },
+    {
+      "fr": "9. FR",
+      "tr": "Histoire"
     }
   ]
 }
