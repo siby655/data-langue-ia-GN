@@ -5613,6 +5613,34 @@
         {
           "fr": "Chantier",
           "susu": "Kamba"
+        },
+        {
+          "fr": "8. Femme",
+          "susu": "Mmusu"
+        },
+        {
+          "fr": "9. Homme",
+          "susu": "Denke"
+        },
+        {
+          "fr": "13. Professeur",
+          "susu": "Mwalimu"
+        },
+        {
+          "fr": "16. Campagne",
+          "susu": "Kunda"
+        },
+        {
+          "fr": "17. Voiture",
+          "susu": "Gari"
+        },
+        {
+          "fr": "18. Moto",
+          "susu": "Bata"
+        },
+        {
+          "fr": "19. Marché",
+          "susu": "Soko"
         }
       ]
     }
