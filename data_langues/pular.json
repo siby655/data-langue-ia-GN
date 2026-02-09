@@ -375,6 +375,78 @@
     {
       "fr": "30. Voyage",
       "tr": "Yimre"
+    },
+    {
+      "fr": "12. Écrire",
+      "tr": "Wali"
+    },
+    {
+      "fr": "13. Lire",
+      "tr": "Nyanya"
+    },
+    {
+      "fr": "14. Parler",
+      "tr": "Jamaa"
+    },
+    {
+      "fr": "15. Écouter",
+      "tr": "Nyari"
+    },
+    {
+      "fr": "16. Comprendre",
+      "tr": "Fanni"
+    },
+    {
+      "fr": "17. Souri",
+      "tr": "Waliya"
+    },
+    {
+      "fr": "18. Pleurer",
+      "tr": "Rowa"
+    },
+    {
+      "fr": "20. Chanson",
+      "tr": "Lalaka"
+    },
+    {
+      "fr": "21. Musique",
+      "tr": "Yimma"
+    },
+    {
+      "fr": "22. Cinéma",
+      "tr": "Sinima"
+    },
+    {
+      "fr": "23. Téléphone",
+      "tr": "Tilifoon"
+    },
+    {
+      "fr": "24. Ordinateur",
+      "tr": "Komputa"
+    },
+    {
+      "fr": "25. Internet",
+      "tr": "Intaneti"
+    },
+    {
+      "fr": "26. Médicament",
+      "tr": "Dawa"
+    },
+    {
+      "fr": "27. Hôpital",
+      "tr": "Sapati"
+    },
+    {
+      "fr": "28. Docteur",
+      "tr": "Dokita"
+    },
+    {
+      "fr": "29. Infirmerie",
+      "tr": "Maladi"
+    },
+    {
+      "fr": "30. Santé",
+      "tr": "Salama"
     }
   ]
 }
