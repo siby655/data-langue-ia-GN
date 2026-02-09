@@ -5,172 +5,100 @@
       "tr": "Ndokpa"
     },
     {
-      "fr": "2. Merci",
-      "tr": "Sabari"
-    },
-    {
-      "fr": "3. Eau",
-      "tr": "Kɛɛ"
-    },
-    {
-      "fr": "4. Manger",
-      "tr": "Nyɔ"
-    },
-    {
-      "fr": "5. Maison",
-      "tr": "Gbere"
-    },
-    {
-      "fr": "6. Arbre",
-      "tr": "Tiɛ"
-    },
-    {
-      "fr": "7. Chat",
-      "tr": "Mbu"
-    },
-    {
-      "fr": "8. Chien",
-      "tr": "Kɔrɔ"
-    },
-    {
-      "fr": "9. Soleil",
-      "tr": "Sɛɛ"
-    },
-    {
-      "fr": "10. Pluie",
-      "tr": "Yɛɛ"
-    },
-    {
-      "fr": "11. Terre",
-      "tr": "Gbɛɛ"
-    },
-    {
-      "fr": "12. Ciel",
-      "tr": "Mɔɔ"
-    },
-    {
-      "fr": "13. Rien",
-      "tr": "Kɔkɔ"
-    },
-    {
-      "fr": "14. Tout",
-      "tr": "Kɛɛlɛ"
-    },
-    {
-      "fr": "15. Grande",
-      "tr": "Wɔɔ"
-    },
-    {
-      "fr": "16. Petite",
-      "tr": "Ndi"
-    },
-    {
-      "fr": "17. Beau",
-      "tr": "Yɛyɛ"
-    },
-    {
-      "fr": "18. Bon",
-      "tr": "Kɛkɛ"
-    },
-    {
-      "fr": "19. Froid",
-      "tr": "Kɔlɔ"
-    },
-    {
-      "fr": "20. Chaud",
-      "tr": "Sɛsɛ"
-    },
-    {
-      "fr": "21. Jour",
-      "tr": "Gbɛ"
-    },
-    {
-      "fr": "22. Nuit",
-      "tr": "Mɔ"
-    },
-    {
-      "fr": "23. Rire",
-      "tr": "Kɔkɔ"
-    },
-    {
-      "fr": "24. Pleurer",
-      "tr": "Mɔɔ"
-    },
-    {
-      "fr": "25. Aimer",
-      "tr": "Nyɔ"
-    },
-    {
-      "fr": "26. École",
-      "tr": "Kɔlɛ"
-    },
-    {
-      "fr": "27. Enseignant",
-      "tr": "Kɛkɛlɛ"
-    },
-    {
-      "fr": "28. Élève",
-      "tr": "Ndɛ"
-    },
-    {
-      "fr": "29. Livre",
-      "tr": "Kɛɛ"
-    },
-    {
-      "fr": "30. Ami",
-      "tr": "Sabari"
-    },
-    {
       "fr": "1. Eau",
       "tr": "Wali"
-    },
-    {
-      "fr": "2. Soleil",
-      "tr": "Kɔkɔ"
-    },
-    {
-      "fr": "3. Maison",
-      "tr": "Bɛnɛ"
-    },
-    {
-      "fr": "4. Famille",
-      "tr": "Kɛlɛ"
-    },
-    {
-      "fr": "5. Amour",
-      "tr": "Lɛmɛ"
-    },
-    {
-      "fr": "6. Bonjour",
-      "tr": "Kɛnɛ"
-    },
-    {
-      "fr": "7. Merci",
-      "tr": "Mɛsi"
-    },
-    {
-      "fr": "8. Au revoir",
-      "tr": "Kɔsɔ"
-    },
-    {
-      "fr": "9. Manger",
-      "tr": "Nyɛ"
     },
     {
       "fr": "10. Boire",
       "tr": "Lɛ"
     },
     {
+      "fr": "10. Manger",
+      "tr": "Dɔ"
+    },
+    {
+      "fr": "10. Pluie",
+      "tr": "Yɛɛ"
+    },
+    {
+      "fr": "10. École",
+      "tr": "Sɛkɔlɔ"
+    },
+    {
+      "fr": "11. Boire",
+      "tr": "Kɔlɛ"
+    },
+    {
       "fr": "11. Danser",
       "tr": "Ka"
+    },
+    {
+      "fr": "11. Petit",
+      "tr": "Kɛkɛlɛ"
+    },
+    {
+      "fr": "11. Professeur",
+      "tr": "Kɔɔnɔ"
+    },
+    {
+      "fr": "11. Terre",
+      "tr": "Gbɛɛ"
     },
     {
       "fr": "12. Chanson",
       "tr": "Kɔlɛ"
     },
     {
+      "fr": "12. Ciel",
+      "tr": "Mɔɔ"
+    },
+    {
+      "fr": "12. Danse",
+      "tr": "Sɛɛ"
+    },
+    {
+      "fr": "12. Grand",
+      "tr": "Yɛrɛ"
+    },
+    {
+      "fr": "12. Livre",
+      "tr": "Buku"
+    },
+    {
+      "fr": "13. Chanson",
+      "tr": "Yɛlɛ"
+    },
+    {
+      "fr": "13. Chien",
+      "tr": "Wɔsi"
+    },
+    {
       "fr": "13. Histoire",
       "tr": "Kɛlɛmɛ"
+    },
+    {
+      "fr": "13. Maison",
+      "tr": "Sɔɔ"
+    },
+    {
+      "fr": "13. Rien",
+      "tr": "Kɔkɔ"
+    },
+    {
+      "fr": "14. Chat",
+      "tr": "Ka"
+    },
+    {
+      "fr": "14. Histoire",
+      "tr": "Kɛɛlɛ"
+    },
+    {
+      "fr": "14. Tout",
+      "tr": "Kɛɛlɛ"
+    },
+    {
+      "fr": "14. Village",
+      "tr": "Kɔŋɔ"
     },
     {
       "fr": "14. École",
@@ -181,204 +109,16 @@
       "tr": "Kɛlɛkɔ"
     },
     {
-      "fr": "16. Étudiant",
-      "tr": "Sɛkɔlɔ"
+      "fr": "15. Grande",
+      "tr": "Wɔɔ"
     },
     {
-      "fr": "17. Livre",
-      "tr": "Buku"
-    },
-    {
-      "fr": "18. Écrire",
-      "tr": "Kɛlɛ"
-    },
-    {
-      "fr": "19. Lire",
-      "tr": "Nyɛ"
-    },
-    {
-      "fr": "20. Père",
-      "tr": "Ba"
-    },
-    {
-      "fr": "21. Mère",
-      "tr": "Ya"
-    },
-    {
-      "fr": "22. Frère",
-      "tr": "Kɛ"
-    },
-    {
-      "fr": "23. Sœur",
-      "tr": "Na"
-    },
-    {
-      "fr": "24. Enfant",
-      "tr": "Kɔlɔ"
-    },
-    {
-      "fr": "25. Vie",
-      "tr": "Lɛ"
-    },
-    {
-      "fr": "26. Mort",
-      "tr": "Kɔ"
-    },
-    {
-      "fr": "27. Guerre",
-      "tr": "Kɔkɔlɛ"
-    },
-    {
-      "fr": "28. Paix",
-      "tr": "Lɛmɛ"
-    },
-    {
-      "fr": "29. Bonheur",
-      "tr": "Kɛlɛmɛ"
-    },
-    {
-      "fr": "30. Espoir",
-      "tr": "Sɛkɔlɔ"
-    },
-    {
-      "fr": "4. Maison",
-      "tr": "Bɛɛ"
-    },
-    {
-      "fr": "5. Ami",
-      "tr": "Kɔlɔ"
-    },
-    {
-      "fr": "6. Manger",
-      "tr": "Jɛ"
-    },
-    {
-      "fr": "7. Boire",
-      "tr": "Mi"
-    },
-    {
-      "fr": "8. Famille",
-      "tr": "Kɛlɛ"
-    },
-    {
-      "fr": "9. Enfant",
-      "tr": "Bɛlɛ"
-    },
-    {
-      "fr": "10. École",
-      "tr": "Sɛkɔlɔ"
-    },
-    {
-      "fr": "11. Professeur",
-      "tr": "Kɔɔnɔ"
-    },
-    {
-      "fr": "12. Livre",
-      "tr": "Buku"
-    },
-    {
-      "fr": "13. Chien",
-      "tr": "Wɔsi"
-    },
-    {
-      "fr": "14. Chat",
-      "tr": "Ka"
+      "fr": "15. Liberté",
+      "tr": "Bɛrɛ"
     },
     {
       "fr": "15. Vélo",
       "tr": "Pisikɛ"
-    },
-    {
-      "fr": "16. Voiture",
-      "tr": "Motɔ"
-    },
-    {
-      "fr": "17. Route",
-      "tr": "Sɛ"
-    },
-    {
-      "fr": "18. Village",
-      "tr": "Kɛnɛ"
-    },
-    {
-      "fr": "19. Forêt",
-      "tr": "Kɔkɔ"
-    },
-    {
-      "fr": "20. Rivières",
-      "tr": "Wɔ"
-    },
-    {
-      "fr": "21. Poisson",
-      "tr": "Kɛkɛ"
-    },
-    {
-      "fr": "22. Os",
-      "tr": "Kɔɔ"
-    },
-    {
-      "fr": "23. Mère",
-      "tr": "Na"
-    },
-    {
-      "fr": "24. Père",
-      "tr": "Ba"
-    },
-    {
-      "fr": "25. Frère",
-      "tr": "Kɔrɔ"
-    },
-    {
-      "fr": "26. Sœur",
-      "tr": "Naŋɛ"
-    },
-    {
-      "fr": "27. Froid",
-      "tr": "Kɛlɛ"
-    },
-    {
-      "fr": "28. Chaud",
-      "tr": "Wɛ"
-    },
-    {
-      "fr": "29. Nourriture",
-      "tr": "Jɛ"
-    },
-    {
-      "fr": "30. Musique",
-      "tr": "Kɔlɔnɔ"
-    },
-    {
-      "fr": "5. Arbre",
-      "tr": "Tiɛ"
-    },
-    {
-      "fr": "6. Chien",
-      "tr": "Kuɛ"
-    },
-    {
-      "fr": "7. Femme",
-      "tr": "Pobɛ"
-    },
-    {
-      "fr": "8. Homme",
-      "tr": "Kɔbɛ"
-    },
-    {
-      "fr": "11. Petit",
-      "tr": "Kɛkɛlɛ"
-    },
-    {
-      "fr": "12. Grand",
-      "tr": "Yɛrɛ"
-    },
-    {
-      "fr": "13. Maison",
-      "tr": "Sɔɔ"
-    },
-    {
-      "fr": "14. Village",
-      "tr": "Kɔŋɔ"
     },
     {
       "fr": "15. École",
@@ -389,16 +129,104 @@
       "tr": "Wɛɛ"
     },
     {
+      "fr": "16. Paix",
+      "tr": "Kɛlɛ"
+    },
+    {
+      "fr": "16. Petite",
+      "tr": "Ndi"
+    },
+    {
+      "fr": "16. Voiture",
+      "tr": "Motɔ"
+    },
+    {
+      "fr": "16. Étudiant",
+      "tr": "Sɛkɔlɔ"
+    },
+    {
+      "fr": "17. Amitié",
+      "tr": "Mɛsɛn"
+    },
+    {
+      "fr": "17. Beau",
+      "tr": "Yɛyɛ"
+    },
+    {
+      "fr": "17. Livre",
+      "tr": "Buku"
+    },
+    {
       "fr": "17. Mère",
       "tr": "Mɛɛ"
+    },
+    {
+      "fr": "17. Route",
+      "tr": "Sɛ"
+    },
+    {
+      "fr": "18. Bon",
+      "tr": "Kɛkɛ"
     },
     {
       "fr": "18. Père",
       "tr": "Bɛbɛ"
     },
     {
+      "fr": "18. Soin",
+      "tr": "Kɔlɛ"
+    },
+    {
+      "fr": "18. Village",
+      "tr": "Kɛnɛ"
+    },
+    {
+      "fr": "18. Écrire",
+      "tr": "Kɛlɛ"
+    },
+    {
+      "fr": "19. Espoir",
+      "tr": "Bɛnɛ"
+    },
+    {
+      "fr": "19. Forêt",
+      "tr": "Kɔkɔ"
+    },
+    {
+      "fr": "19. Froid",
+      "tr": "Kɔlɔ"
+    },
+    {
       "fr": "19. Frère",
       "tr": "Kɛkɛ"
+    },
+    {
+      "fr": "19. Lire",
+      "tr": "Nyɛ"
+    },
+    {
+      "fr": "2. Merci",
+      "tr": "Sabari"
+    },
+    {
+      "fr": "2. Soleil",
+      "tr": "Kɔkɔ"
+    },
+    {
+      "fr": "20. Chaud",
+      "tr": "Sɛsɛ"
+    },
+    {
+      "fr": "20. Père",
+      "tr": "Ba"
+    },
+    {
+      "fr": "20. Rivières",
+      "tr": "Wɔ"
+    },
+    {
+      "fr": "20. Rêve",
+      "tr": "Yɛlɛ"
     },
     {
       "fr": "20. Sœur",
@@ -409,108 +237,36 @@
       "tr": "Kɔŋɔ"
     },
     {
-      "fr": "22. Champ",
-      "tr": "Tɛɛ"
+      "fr": "21. Jour",
+      "tr": "Gbɛ"
     },
     {
-      "fr": "23. Riz",
-      "tr": "Mɛɛ"
+      "fr": "21. Mère",
+      "tr": "Ya"
     },
     {
-      "fr": "24. Poisson",
-      "tr": "Sɛbɛ"
-    },
-    {
-      "fr": "25. Viande",
-      "tr": "Nyɛ"
-    },
-    {
-      "fr": "26. Fruits",
-      "tr": "Kuɛ"
-    },
-    {
-      "fr": "27. Légumes",
-      "tr": "Pɛlɛ"
-    },
-    {
-      "fr": "28. Soleil",
-      "tr": "Yɛlɛ"
-    },
-    {
-      "fr": "29. Pluie",
-      "tr": "Kɔɔ"
-    },
-    {
-      "fr": "30. Nuit",
-      "tr": "Sɛnɛ"
-    },
-    {
-      "fr": "5. Famille",
-      "tr": "Kɛɛlɛ"
-    },
-    {
-      "fr": "6. Amour",
-      "tr": "Bɛnɛ"
-    },
-    {
-      "fr": "7. Joie",
-      "tr": "Dɛlɛ"
-    },
-    {
-      "fr": "8. Rire",
-      "tr": "Sɛsɛ"
-    },
-    {
-      "fr": "9. Pleurer",
-      "tr": "Mɛlɛ"
-    },
-    {
-      "fr": "10. Manger",
-      "tr": "Dɔ"
-    },
-    {
-      "fr": "11. Boire",
-      "tr": "Kɔlɛ"
-    },
-    {
-      "fr": "12. Danse",
-      "tr": "Sɛɛ"
-    },
-    {
-      "fr": "13. Chanson",
-      "tr": "Yɛlɛ"
-    },
-    {
-      "fr": "14. Histoire",
-      "tr": "Kɛɛlɛ"
-    },
-    {
-      "fr": "15. Liberté",
-      "tr": "Bɛrɛ"
-    },
-    {
-      "fr": "16. Paix",
-      "tr": "Kɛlɛ"
-    },
-    {
-      "fr": "17. Amitié",
-      "tr": "Mɛsɛn"
-    },
-    {
-      "fr": "18. Soin",
-      "tr": "Kɔlɛ"
-    },
-    {
-      "fr": "19. Espoir",
-      "tr": "Bɛnɛ"
-    },
-    {
-      "fr": "20. Rêve",
-      "tr": "Yɛlɛ"
+      "fr": "21. Poisson",
+      "tr": "Kɛkɛ"
     },
     {
       "fr": "21. Réalité",
       "tr": "Kɛɛlɛ"
+    },
+    {
+      "fr": "22. Champ",
+      "tr": "Tɛɛ"
+    },
+    {
+      "fr": "22. Frère",
+      "tr": "Kɛ"
+    },
+    {
+      "fr": "22. Nuit",
+      "tr": "Mɔ"
+    },
+    {
+      "fr": "22. Os",
+      "tr": "Kɔɔ"
     },
     {
       "fr": "22. Vérité",
@@ -521,32 +277,276 @@
       "tr": "Dɛlɛ"
     },
     {
+      "fr": "23. Mère",
+      "tr": "Na"
+    },
+    {
+      "fr": "23. Rire",
+      "tr": "Kɔkɔ"
+    },
+    {
+      "fr": "23. Riz",
+      "tr": "Mɛɛ"
+    },
+    {
+      "fr": "23. Sœur",
+      "tr": "Na"
+    },
+    {
+      "fr": "24. Enfant",
+      "tr": "Kɔlɔ"
+    },
+    {
       "fr": "24. Nature",
       "tr": "Kɔ"
+    },
+    {
+      "fr": "24. Pleurer",
+      "tr": "Mɔɔ"
+    },
+    {
+      "fr": "24. Poisson",
+      "tr": "Sɛbɛ"
+    },
+    {
+      "fr": "24. Père",
+      "tr": "Ba"
+    },
+    {
+      "fr": "25. Aimer",
+      "tr": "Nyɔ"
     },
     {
       "fr": "25. Enfant",
       "tr": "Yɛ"
     },
     {
+      "fr": "25. Frère",
+      "tr": "Kɔrɔ"
+    },
+    {
+      "fr": "25. Viande",
+      "tr": "Nyɛ"
+    },
+    {
+      "fr": "25. Vie",
+      "tr": "Lɛ"
+    },
+    {
+      "fr": "26. Fruits",
+      "tr": "Kuɛ"
+    },
+    {
+      "fr": "26. Mort",
+      "tr": "Kɔ"
+    },
+    {
       "fr": "26. Mère",
       "tr": "Kɛɛ"
+    },
+    {
+      "fr": "26. Sœur",
+      "tr": "Naŋɛ"
+    },
+    {
+      "fr": "26. École",
+      "tr": "Kɔlɛ"
+    },
+    {
+      "fr": "27. Enseignant",
+      "tr": "Kɛkɛlɛ"
+    },
+    {
+      "fr": "27. Froid",
+      "tr": "Kɛlɛ"
+    },
+    {
+      "fr": "27. Guerre",
+      "tr": "Kɔkɔlɛ"
+    },
+    {
+      "fr": "27. Légumes",
+      "tr": "Pɛlɛ"
     },
     {
       "fr": "27. Père",
       "tr": "Bɛ"
     },
     {
+      "fr": "28. Chaud",
+      "tr": "Wɛ"
+    },
+    {
       "fr": "28. Frère",
       "tr": "Mɛ"
+    },
+    {
+      "fr": "28. Paix",
+      "tr": "Lɛmɛ"
+    },
+    {
+      "fr": "28. Soleil",
+      "tr": "Yɛlɛ"
+    },
+    {
+      "fr": "28. Élève",
+      "tr": "Ndɛ"
+    },
+    {
+      "fr": "29. Bonheur",
+      "tr": "Kɛlɛmɛ"
+    },
+    {
+      "fr": "29. Livre",
+      "tr": "Kɛɛ"
+    },
+    {
+      "fr": "29. Nourriture",
+      "tr": "Jɛ"
+    },
+    {
+      "fr": "29. Pluie",
+      "tr": "Kɔɔ"
     },
     {
       "fr": "29. Sœur",
       "tr": "Kɛlɛ"
     },
     {
+      "fr": "3. Eau",
+      "tr": "Kɛɛ"
+    },
+    {
+      "fr": "3. Maison",
+      "tr": "Bɛnɛ"
+    },
+    {
+      "fr": "30. Ami",
+      "tr": "Sabari"
+    },
+    {
       "fr": "30. Communauté",
       "tr": "Kɛɛlɛ"
+    },
+    {
+      "fr": "30. Espoir",
+      "tr": "Sɛkɔlɔ"
+    },
+    {
+      "fr": "30. Musique",
+      "tr": "Kɔlɔnɔ"
+    },
+    {
+      "fr": "30. Nuit",
+      "tr": "Sɛnɛ"
+    },
+    {
+      "fr": "4. Famille",
+      "tr": "Kɛlɛ"
+    },
+    {
+      "fr": "4. Maison",
+      "tr": "Bɛɛ"
+    },
+    {
+      "fr": "4. Manger",
+      "tr": "Nyɔ"
+    },
+    {
+      "fr": "5. Ami",
+      "tr": "Kɔlɔ"
+    },
+    {
+      "fr": "5. Amour",
+      "tr": "Lɛmɛ"
+    },
+    {
+      "fr": "5. Arbre",
+      "tr": "Tiɛ"
+    },
+    {
+      "fr": "5. Famille",
+      "tr": "Kɛɛlɛ"
+    },
+    {
+      "fr": "5. Maison",
+      "tr": "Gbere"
+    },
+    {
+      "fr": "6. Amour",
+      "tr": "Bɛnɛ"
+    },
+    {
+      "fr": "6. Arbre",
+      "tr": "Tiɛ"
+    },
+    {
+      "fr": "6. Bonjour",
+      "tr": "Kɛnɛ"
+    },
+    {
+      "fr": "6. Chien",
+      "tr": "Kuɛ"
+    },
+    {
+      "fr": "6. Manger",
+      "tr": "Jɛ"
+    },
+    {
+      "fr": "7. Boire",
+      "tr": "Mi"
+    },
+    {
+      "fr": "7. Chat",
+      "tr": "Mbu"
+    },
+    {
+      "fr": "7. Femme",
+      "tr": "Pobɛ"
+    },
+    {
+      "fr": "7. Joie",
+      "tr": "Dɛlɛ"
+    },
+    {
+      "fr": "7. Merci",
+      "tr": "Mɛsi"
+    },
+    {
+      "fr": "8. Au revoir",
+      "tr": "Kɔsɔ"
+    },
+    {
+      "fr": "8. Chien",
+      "tr": "Kɔrɔ"
+    },
+    {
+      "fr": "8. Famille",
+      "tr": "Kɛlɛ"
+    },
+    {
+      "fr": "8. Homme",
+      "tr": "Kɔbɛ"
+    },
+    {
+      "fr": "8. Rire",
+      "tr": "Sɛsɛ"
+    },
+    {
+      "fr": "9. Enfant",
+      "tr": "Bɛlɛ"
+    },
+    {
+      "fr": "9. Manger",
+      "tr": "Nyɛ"
+    },
+    {
+      "fr": "9. Pleurer",
+      "tr": "Mɛlɛ"
+    },
+    {
+      "fr": "9. Soleil",
+      "tr": "Sɛɛ"
     }
   ]
 }
