@@ -327,6 +327,110 @@
     {
       "fr": "30. Paix",
       "tr": "Hakili"
+    },
+    {
+      "fr": "5. Fleur",
+      "tr": "Kole"
+    },
+    {
+      "fr": "6. Soleil",
+      "tr": "Sulisi"
+    },
+    {
+      "fr": "7. Lune",
+      "tr": "Kalo"
+    },
+    {
+      "fr": "8. Étoile",
+      "tr": "Sisiri"
+    },
+    {
+      "fr": "9. Terre",
+      "tr": "Kolo"
+    },
+    {
+      "fr": "10. Ciel",
+      "tr": "Sigi"
+    },
+    {
+      "fr": "11. Arbuste",
+      "tr": "Koli"
+    },
+    {
+      "fr": "12. Arbre",
+      "tr": "Kono"
+    },
+    {
+      "fr": "13. Oiseau",
+      "tr": "Sisili"
+    },
+    {
+      "fr": "14. Chien",
+      "tr": "Nono"
+    },
+    {
+      "fr": "15. Chat",
+      "tr": "Musu"
+    },
+    {
+      "fr": "16. Poisson",
+      "tr": "Kala"
+    },
+    {
+      "fr": "17. Viande",
+      "tr": "Nyama"
+    },
+    {
+      "fr": "18. Riz",
+      "tr": "More"
+    },
+    {
+      "fr": "19. Fruits",
+      "tr": "Kolo"
+    },
+    {
+      "fr": "20. Légume",
+      "tr": "Kala"
+    },
+    {
+      "fr": "21. Père",
+      "tr": "Ba"
+    },
+    {
+      "fr": "22. Mère",
+      "tr": "Ma"
+    },
+    {
+      "fr": "23. Frère",
+      "tr": "Koro"
+    },
+    {
+      "fr": "24. Sœur",
+      "tr": "Kali"
+    },
+    {
+      "fr": "25. Enfant",
+      "tr": "Den"
+    },
+    {
+      "fr": "26. Ami",
+      "tr": "Saba"
+    },
+    {
+      "fr": "27. Famille",
+      "tr": "Kabila"
+    },
+    {
+      "fr": "28. Village",
+      "tr": "Koro"
+    },
+    {
+      "fr": "29. École",
+      "tr": "Sukulu"
+    },
+    {
+      "fr": "30. Hôpital",
+      "tr": "Osuwali"
     }
   ]
 }
