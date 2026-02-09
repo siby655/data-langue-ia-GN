@@ -639,6 +639,202 @@
     {
       "fr": "9. Terre",
       "tr": "Kolo"
+    },
+    {
+      "fr": "2. Comment vas-tu ?",
+      "tr": "I ka bena ?"
+    },
+    {
+      "fr": "3. Je m'appelle",
+      "tr": "Mogo ma"
+    },
+    {
+      "fr": "4. Je suis heureux",
+      "tr": "M'ka don"
+    },
+    {
+      "fr": "5. Je suis fatigué",
+      "tr": "M'soro"
+    },
+    {
+      "fr": "6. Je veux manger",
+      "tr": "M'ka golo"
+    },
+    {
+      "fr": "7. Je veux boire",
+      "tr": "M'ka nin"
+    },
+    {
+      "fr": "8. Où est... ?",
+      "tr": "I ka fo ?"
+    },
+    {
+      "fr": "9. Je ne sais pas",
+      "tr": "M'ka tara"
+    },
+    {
+      "fr": "10. Je suis perdu",
+      "tr": "M'soro fo"
+    },
+    {
+      "fr": "11. Pouvez-vous m'aider ?",
+      "tr": "I ka kuma ?"
+    },
+    {
+      "fr": "12. Merci beaucoup",
+      "tr": "I ni ce bara"
+    },
+    {
+      "fr": "13. Excusez-moi",
+      "tr": "M'ka to"
+    },
+    {
+      "fr": "14. Je suis désolé",
+      "tr": "M'ka golo"
+    },
+    {
+      "fr": "15. Je t'aime",
+      "tr": "M'ka yé"
+    },
+    {
+      "fr": "16. Je suis content",
+      "tr": "M'ka don"
+    },
+    {
+      "fr": "17. Je suis triste",
+      "tr": "M'ka koro"
+    },
+    {
+      "fr": "18. Je suis fâché",
+      "tr": "M'ka goro"
+    },
+    {
+      "fr": "19. Je suis malade",
+      "tr": "M'soro"
+    },
+    {
+      "fr": "20. Je veux aller",
+      "tr": "M'ka ye"
+    },
+    {
+      "fr": "21. Je veux rester",
+      "tr": "M'ka ka"
+    },
+    {
+      "fr": "22. Je veux travailler",
+      "tr": "M'ka nyé"
+    },
+    {
+      "fr": "23. Je veux étudier",
+      "tr": "M'ka kélé"
+    },
+    {
+      "fr": "24. Je suis un homme",
+      "tr": "Mogo kɛ"
+    },
+    {
+      "fr": "25. Je suis une femme",
+      "tr": "Mogo muso"
+    },
+    {
+      "fr": "26. Je suis un enfant",
+      "tr": "Mogo kɔrɔ"
+    },
+    {
+      "fr": "27. Je suis un étudiant",
+      "tr": "Mogo kélé"
+    },
+    {
+      "fr": "28. Je suis un travailleur",
+      "tr": "Mogo nyé"
+    },
+    {
+      "fr": "29. Je suis un enseignant",
+      "tr": "Mogo kɛlɛ"
+    },
+    {
+      "fr": "30. Je suis un médecin",
+      "tr": "Mogo sɔrɔ"
+    },
+    {
+      "fr": "31. Je suis un avocat",
+      "tr": "Mogo jɛlɛ"
+    },
+    {
+      "fr": "32. Je suis un agriculteur",
+      "tr": "Mogo ka fo"
+    },
+    {
+      "fr": "33. Je suis un éleveur",
+      "tr": "Mogo kɔrɔ"
+    },
+    {
+      "fr": "34. Je suis un pêcheur",
+      "tr": "Mogo jɛ"
+    },
+    {
+      "fr": "35. Je suis un cuisinier",
+      "tr": "Mogo kɛlɛ"
+    },
+    {
+      "fr": "36. Je suis un serveur",
+      "tr": "Mogo kɛlɛ"
+    },
+    {
+      "fr": "37. Je suis un vendeur",
+      "tr": "Mogo kɛlɛ"
+    },
+    {
+      "fr": "38. Je suis un acheteur",
+      "tr": "Mogo kɛlɛ"
+    },
+    {
+      "fr": "39. Je suis un voyageur",
+      "tr": "Mogo ye"
+    },
+    {
+      "fr": "40. Je suis un touriste",
+      "tr": "Mogo kɛlɛ"
+    },
+    {
+      "fr": "41. Je suis un ami",
+      "tr": "M'ka yé"
+    },
+    {
+      "fr": "42. Je suis un ennemi",
+      "tr": "M'ka goro"
+    },
+    {
+      "fr": "43. Je suis un frère",
+      "tr": "M'ka ka"
+    },
+    {
+      "fr": "44. Je suis une sœur",
+      "tr": "M'ka muso"
+    },
+    {
+      "fr": "45. Je suis un cousin",
+      "tr": "M'ka kɛ"
+    },
+    {
+      "fr": "46. Je suis une cousine",
+      "tr": "M'ka muso"
+    },
+    {
+      "fr": "47. Je suis un oncle",
+      "tr": "M'ka ka"
+    },
+    {
+      "fr": "48. Je suis une tante",
+      "tr": "M'ka muso"
+    },
+    {
+      "fr": "49. Je suis un grand-père",
+      "tr": "M'ka kɛ"
+    },
+    {
+      "fr": "50. Je suis une grand-mère",
+      "tr": "M'ka muso"
     }
   ]
 }
