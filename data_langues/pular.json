@@ -1,3 +1,124 @@
 {
-  "entries": []
+  "entries": [
+    {
+      "fr": "1. Bonjour",
+      "tr": "Aliwa"
+    },
+    {
+      "fr": "2. Merci",
+      "tr": "Jaara"
+    },
+    {
+      "fr": "3. Eau",
+      "tr": "Debe"
+    },
+    {
+      "fr": "4. Manger",
+      "tr": "Nyaa"
+    },
+    {
+      "fr": "5. Maison",
+      "tr": "Suudu"
+    },
+    {
+      "fr": "6. Ami",
+      "tr": "Bantal"
+    },
+    {
+      "fr": "7. Famille",
+      "tr": "Dundu"
+    },
+    {
+      "fr": "8. École",
+      "tr": "Suuku"
+    },
+    {
+      "fr": "9. Enseignant",
+      "tr": "Tiidaare"
+    },
+    {
+      "fr": "10. Élève",
+      "tr": "Suukuŋo"
+    },
+    {
+      "fr": "11. Livre",
+      "tr": "Buku"
+    },
+    {
+      "fr": "12. Crayon",
+      "tr": "Kalaamu"
+    },
+    {
+      "fr": "13. Table",
+      "tr": "Tepo"
+    },
+    {
+      "fr": "14. Chaise",
+      "tr": "Korsu"
+    },
+    {
+      "fr": "15. Ordinateur",
+      "tr": "Komputa"
+    },
+    {
+      "fr": "16. Téléphone",
+      "tr": "Tilifoon"
+    },
+    {
+      "fr": "17. Télévision",
+      "tr": "Tiliviziyo"
+    },
+    {
+      "fr": "18. Musique",
+      "tr": "Muziki"
+    },
+    {
+      "fr": "19. Danse",
+      "tr": "Dansi"
+    },
+    {
+      "fr": "20. Sport",
+      "tr": "Spooti"
+    },
+    {
+      "fr": "21. Football",
+      "tr": "Futbolti"
+    },
+    {
+      "fr": "22. Basket",
+      "tr": "Basiketi"
+    },
+    {
+      "fr": "23. Vélo",
+      "tr": "Veloo"
+    },
+    {
+      "fr": "24. Voiture",
+      "tr": "Motka"
+    },
+    {
+      "fr": "25. Maison",
+      "tr": "Galle"
+    },
+    {
+      "fr": "26. Village",
+      "tr": "Dundu"
+    },
+    {
+      "fr": "27. Ville",
+      "tr": "Diiwa"
+    },
+    {
+      "fr": "28. Pays",
+      "tr": "Bantu"
+    },
+    {
+      "fr": "29. Monde",
+      "tr": "Aduna"
+    },
+    {
+      "fr": "30. Amour",
+      "tr": "Rande"
+    }
+  ]
 }
