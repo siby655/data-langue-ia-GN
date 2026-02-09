@@ -4841,6 +4841,50 @@
         {
           "fr": "20. Fruit",
           "susu": "Wonko"
+        },
+        {
+          "fr": "5. Boire",
+          "susu": "Nu"
+        },
+        {
+          "fr": "6. Petit",
+          "susu": "Koli"
+        },
+        {
+          "fr": "7. Grand",
+          "susu": "Saba"
+        },
+        {
+          "fr": "9. Femme",
+          "susu": "Kabo"
+        },
+        {
+          "fr": "10. Enfant",
+          "susu": "Koli"
+        },
+        {
+          "fr": "15. Nuit",
+          "susu": "Bere"
+        },
+        {
+          "fr": "16. Jour",
+          "susu": "Sira"
+        },
+        {
+          "fr": "17. Rire",
+          "susu": "Sisi"
+        },
+        {
+          "fr": "18. Pleurer",
+          "susu": "Maa"
+        },
+        {
+          "fr": "19. Mère",
+          "susu": "Ya"
+        },
+        {
+          "fr": "20. Père",
+          "susu": "Ba"
         }
       ]
     }
