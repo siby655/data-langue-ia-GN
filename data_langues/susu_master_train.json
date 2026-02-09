@@ -3389,6 +3389,86 @@
           "fr": "Réponse",
           "susu": "Yabi",
           "timestamp": 1770511401
+        },
+        {
+          "fr": "1. Maison",
+          "susu": "Sere"
+        },
+        {
+          "fr": "2. Ville",
+          "susu": "Kori"
+        },
+        {
+          "fr": "3. École",
+          "susu": "Sukulu"
+        },
+        {
+          "fr": "4. Hôpital",
+          "susu": "Osigidan"
+        },
+        {
+          "fr": "5. Médecin",
+          "susu": "Doki"
+        },
+        {
+          "fr": "6. Enfant",
+          "susu": "Keke"
+        },
+        {
+          "fr": "7. Femme",
+          "susu": "Mbi"
+        },
+        {
+          "fr": "8. Homme",
+          "susu": "Koko"
+        },
+        {
+          "fr": "9. Eau",
+          "susu": "Wata"
+        },
+        {
+          "fr": "10. Feu",
+          "susu": "Sifo"
+        },
+        {
+          "fr": "11. Bois",
+          "susu": "Boka"
+        },
+        {
+          "fr": "12. Pierre",
+          "susu": "Koni"
+        },
+        {
+          "fr": "13. Sable",
+          "susu": "Sabali"
+        },
+        {
+          "fr": "14. Mer",
+          "susu": "Wata kali"
+        },
+        {
+          "fr": "15. Poisson",
+          "susu": "Kala"
+        },
+        {
+          "fr": "16. Arbre",
+          "susu": "Boli"
+        },
+        {
+          "fr": "17. Fleur",
+          "susu": "Sari"
+        },
+        {
+          "fr": "18. Oiseau",
+          "susu": "Bubu"
+        },
+        {
+          "fr": "19. Chien",
+          "susu": "Dinge"
+        },
+        {
+          "fr": "20. Chat",
+          "susu": "Mbu"
         }
       ]
     }
