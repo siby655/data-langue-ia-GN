@@ -4929,6 +4929,46 @@
         {
           "fr": "18. Fatigue",
           "susu": "Doro"
+        },
+        {
+          "fr": "4. Petit",
+          "susu": "Kali"
+        },
+        {
+          "fr": "5. Grand",
+          "susu": "Bamba"
+        },
+        {
+          "fr": "6. Femme",
+          "susu": "Musu"
+        },
+        {
+          "fr": "7. Homme",
+          "susu": "Béro"
+        },
+        {
+          "fr": "14. Avion",
+          "susu": "Folo"
+        },
+        {
+          "fr": "16. Montagne",
+          "susu": "Tonko"
+        },
+        {
+          "fr": "17. Forêt",
+          "susu": "Bokari"
+        },
+        {
+          "fr": "18. Fleuve",
+          "susu": "Doko"
+        },
+        {
+          "fr": "19. Soleil",
+          "susu": "Sili"
+        },
+        {
+          "fr": "20. Lune",
+          "susu": "Koli"
         }
       ]
     }
