@@ -3469,6 +3469,82 @@
         {
           "fr": "20. Chat",
           "susu": "Mbu"
+        },
+        {
+          "fr": "2. Eau",
+          "susu": "Waa"
+        },
+        {
+          "fr": "3. Manger",
+          "susu": "Kaŋ"
+        },
+        {
+          "fr": "4. Fleur",
+          "susu": "Sɛkɛ"
+        },
+        {
+          "fr": "5. Soleil",
+          "susu": "Suwi"
+        },
+        {
+          "fr": "6. Lune",
+          "susu": "Kɛlɛ"
+        },
+        {
+          "fr": "7. Étoile",
+          "susu": "Sɛkɛlɛ"
+        },
+        {
+          "fr": "8. Poulet",
+          "susu": "Kɔkɔ"
+        },
+        {
+          "fr": "9. Chien",
+          "susu": "Bɛmbɛ"
+        },
+        {
+          "fr": "10. Chat",
+          "susu": "Mɔmɔ"
+        },
+        {
+          "fr": "11. Poisson",
+          "susu": "Mbɛ"
+        },
+        {
+          "fr": "12. Arbre",
+          "susu": "Kɔlɔ"
+        },
+        {
+          "fr": "13. Fruit",
+          "susu": "Kaŋkɛ"
+        },
+        {
+          "fr": "14. Route",
+          "susu": "Sɛkɛtɛ"
+        },
+        {
+          "fr": "15. Village",
+          "susu": "Kɔŋkɔ"
+        },
+        {
+          "fr": "16. Enfant",
+          "susu": "Kɛkɛ"
+        },
+        {
+          "fr": "17. Femme",
+          "susu": "Mɔmɔ"
+        },
+        {
+          "fr": "18. Homme",
+          "susu": "Bɛbɛ"
+        },
+        {
+          "fr": "19. Nuit",
+          "susu": "Bɛlɛ"
+        },
+        {
+          "fr": "20. Jour",
+          "susu": "Suwi"
         }
       ]
     }
