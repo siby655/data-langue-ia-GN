@@ -5,38 +5,6 @@
       "tr": "Badiaranke - Fleuve"
     },
     {
-      "fr": "2. FR",
-      "tr": "Badiaranke - Montagne"
-    },
-    {
-      "fr": "3. FR",
-      "tr": "Badiaranke - Forêt"
-    },
-    {
-      "fr": "4. FR",
-      "tr": "Badiaranke - Culture"
-    },
-    {
-      "fr": "5. FR",
-      "tr": "Badiaranke - Tradition"
-    },
-    {
-      "fr": "6. FR",
-      "tr": "Badiaranke - Histoire"
-    },
-    {
-      "fr": "7. FR",
-      "tr": "Badiaranke - Paysage"
-    },
-    {
-      "fr": "8. FR",
-      "tr": "Badiaranke - Village"
-    },
-    {
-      "fr": "9. FR",
-      "tr": "Badiaranke - Communauté"
-    },
-    {
       "fr": "10. FR",
       "tr": "Badiaranke - Langue"
     },
@@ -75,6 +43,10 @@
     {
       "fr": "19. FR",
       "tr": "Badiaranke - Pêche"
+    },
+    {
+      "fr": "2. FR",
+      "tr": "Badiaranke - Montagne"
     },
     {
       "fr": "20. FR",
@@ -117,8 +89,36 @@
       "tr": "Badiaranke - Découverte"
     },
     {
+      "fr": "3. FR",
+      "tr": "Badiaranke - Forêt"
+    },
+    {
       "fr": "30. FR",
       "tr": "Badiaranke - Expérience"
+    },
+    {
+      "fr": "4. FR",
+      "tr": "Badiaranke - Culture"
+    },
+    {
+      "fr": "5. FR",
+      "tr": "Badiaranke - Tradition"
+    },
+    {
+      "fr": "6. FR",
+      "tr": "Badiaranke - Histoire"
+    },
+    {
+      "fr": "7. FR",
+      "tr": "Badiaranke - Paysage"
+    },
+    {
+      "fr": "8. FR",
+      "tr": "Badiaranke - Village"
+    },
+    {
+      "fr": "9. FR",
+      "tr": "Badiaranke - Communauté"
     }
   ]
 }
