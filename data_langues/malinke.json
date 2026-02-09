@@ -1,3 +1,124 @@
 {
-  "entries": []
+  "entries": [
+    {
+      "fr": "1. Bonjour",
+      "tr": "Béré"
+    },
+    {
+      "fr": "2. Merci",
+      "tr": "Séré"
+    },
+    {
+      "fr": "3. Eau",
+      "tr": "Ji"
+    },
+    {
+      "fr": "4. Maison",
+      "tr": "Sunu"
+    },
+    {
+      "fr": "5. Famille",
+      "tr": "Ka"
+    },
+    {
+      "fr": "6. Ami",
+      "tr": "Koro"
+    },
+    {
+      "fr": "7. Manger",
+      "tr": "Ka di"
+    },
+    {
+      "fr": "8. Boire",
+      "tr": "Nyi"
+    },
+    {
+      "fr": "9. Je m'appelle",
+      "tr": "M'bolo"
+    },
+    {
+      "fr": "10. Comment vas-tu ?",
+      "tr": "I ka kelen ?"
+    },
+    {
+      "fr": "11. Je vais bien",
+      "tr": "N'Tèri"
+    },
+    {
+      "fr": "12. Oui",
+      "tr": "Oo"
+    },
+    {
+      "fr": "13. Non",
+      "tr": "Ayi"
+    },
+    {
+      "fr": "14. Papa",
+      "tr": "Ba"
+    },
+    {
+      "fr": "15. Maman",
+      "tr": "Ya"
+    },
+    {
+      "fr": "16. Frère",
+      "tr": "Koro"
+    },
+    {
+      "fr": "17. Sœur",
+      "tr": "Kafo"
+    },
+    {
+      "fr": "18. Petit",
+      "tr": "Keli"
+    },
+    {
+      "fr": "19. Grand",
+      "tr": "Sigi"
+    },
+    {
+      "fr": "20. École",
+      "tr": "Sukuu"
+    },
+    {
+      "fr": "21. Enseignant",
+      "tr": "Karamoko"
+    },
+    {
+      "fr": "22. Étudiant",
+      "tr": "Sukuulun"
+    },
+    {
+      "fr": "23. Livre",
+      "tr": "Buku"
+    },
+    {
+      "fr": "24. Écrire",
+      "tr": "K'a bu"
+    },
+    {
+      "fr": "25. Lire",
+      "tr": "K'a jigi"
+    },
+    {
+      "fr": "26. Maison d'hôte",
+      "tr": "Sunu kelen"
+    },
+    {
+      "fr": "27. Hôpital",
+      "tr": "Dɔnku"
+    },
+    {
+      "fr": "28. Médecin",
+      "tr": "Dɔnkutigi"
+    },
+    {
+      "fr": "29. Pharmacie",
+      "tr": "Sigili"
+    },
+    {
+      "fr": "30. Bonne nuit",
+      "tr": "Béré wulu"
+    }
+  ]
 }
