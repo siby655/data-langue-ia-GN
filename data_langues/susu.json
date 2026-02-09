@@ -907,6 +907,198 @@
     {
       "fr": "50. Je suis heureux de danser",
       "tr": "N'toma fɛ sɛ"
+    },
+    {
+      "fr": "3. Au revoir",
+      "tr": "Ka tuma"
+    },
+    {
+      "fr": "4. Comment ça va ?",
+      "tr": "I kεlε ?"
+    },
+    {
+      "fr": "5. Je m'appelle",
+      "tr": "Mɛnɛ yɛ"
+    },
+    {
+      "fr": "6. Je suis perdu",
+      "tr": "Mɛnɛ lɛ kɔnɔ"
+    },
+    {
+      "fr": "7. Pouvez-vous m'aider ?",
+      "tr": "I kɛ yɛ mɛnɛ ?"
+    },
+    {
+      "fr": "8. Où est... ?",
+      "tr": "I tuma... ?"
+    },
+    {
+      "fr": "9. Je ne comprends pas",
+      "tr": "Mɛnɛ tɛ lɛ"
+    },
+    {
+      "fr": "10. Pouvez-vous parler plus lentement ?",
+      "tr": "I kɛ yɛ mɛnɛ kɛ lɛlɛ"
+    },
+    {
+      "fr": "11. Je suis fatigué",
+      "tr": "Mɛnɛ kɛ kɔnɔ"
+    },
+    {
+      "fr": "12. J'ai faim",
+      "tr": "Mɛnɛ yɛ kɛ lɛ"
+    },
+    {
+      "fr": "13. J'ai soif",
+      "tr": "Mɛnɛ kɛ yɛ lɛ"
+    },
+    {
+      "fr": "14. Où est la salle de bain ?",
+      "tr": "I tuma sɛlɛ ɓɛn ɔ ?"
+    },
+    {
+      "fr": "15. Combien ça coûte ?",
+      "tr": "I kεlε lɛ yɛ ?"
+    },
+    {
+      "fr": "16. Je voudrais...",
+      "tr": "Mɛnɛ yɛ..."
+    },
+    {
+      "fr": "17. Pouvez-vous m'appeler un taxi ?",
+      "tr": "I kɛ yɛ mɛnɛ tɛksi ?"
+    },
+    {
+      "fr": "18. Je suis perdu dans la ville",
+      "tr": "Mɛnɛ lɛ kɔnɔ kɛ dɔgɔ"
+    },
+    {
+      "fr": "19. Pouvez-vous m'aider à trouver...",
+      "tr": "I kɛ yɛ mɛnɛ tɛ..."
+    },
+    {
+      "fr": "20. Je ne parle pas très bien français",
+      "tr": "Mɛnɛ tɛ lɛ faranse"
+    },
+    {
+      "fr": "21. Pouvez-vous répéter ?",
+      "tr": "I kɛ yɛ mɛnɛ lɛ"
+    },
+    {
+      "fr": "22. J'ai oublié mon téléphone",
+      "tr": "Mɛnɛ kɛ yɛ tɛlɛfɔn"
+    },
+    {
+      "fr": "23. Où est l'hôtel ?",
+      "tr": "I tuma otɛl ?"
+    },
+    {
+      "fr": "24. Je voudrais une chambre",
+      "tr": "Mɛnɛ yɛ kɛmɛ"
+    },
+    {
+      "fr": "25. Pouvez-vous me donner la carte ?",
+      "tr": "I kɛ yɛ mɛnɛ kɛrt ?"
+    },
+    {
+      "fr": "26. Je suis à la recherche de...",
+      "tr": "Mɛnɛ yɛ tɛ..."
+    },
+    {
+      "fr": "27. Pouvez-vous m'aider à trouver un médecin ?",
+      "tr": "I kɛ yɛ mɛnɛ dɔktɔ"
+    },
+    {
+      "fr": "28. J'ai mal à la tête",
+      "tr": "Mɛnɛ kɛ yɛ kɔnɔ"
+    },
+    {
+      "fr": "29. Où est l'hôpital ?",
+      "tr": "I tuma ɔspital ?"
+    },
+    {
+      "fr": "30. Je voudrais voir un docteur",
+      "tr": "Mɛnɛ yɛ dɔktɔ"
+    },
+    {
+      "fr": "31. Pouvez-vous m'aider à faire...",
+      "tr": "I kɛ yɛ mɛnɛ..."
+    },
+    {
+      "fr": "32. Je ne sais pas",
+      "tr": "Mɛnɛ tɛ lɛ"
+    },
+    {
+      "fr": "33. Pouvez-vous réexpliquer ?",
+      "tr": "I kɛ yɛ mɛnɛ lɛ"
+    },
+    {
+      "fr": "34. J'ai besoin d'aide",
+      "tr": "Mɛnɛ kɛ yɛ"
+    },
+    {
+      "fr": "35. Où est la pharmacie ?",
+      "tr": "I tuma farmasi ?"
+    },
+    {
+      "fr": "36. Je voudrais des médicaments",
+      "tr": "Mɛnɛ yɛ mɛdikamɛnt"
+    },
+    {
+      "fr": "37. Pouvez-vous m'aider à trouver un hôtel ?",
+      "tr": "I kɛ yɛ mɛnɛ otɛl"
+    },
+    {
+      "fr": "38. Je suis à la recherche d'un restaurant",
+      "tr": "Mɛnɛ yɛ tɛ rɛstɔran"
+    },
+    {
+      "fr": "39. Pouvez-vous m'aider à trouver un taxi ?",
+      "tr": "I kɛ yɛ mɛnɛ tɛksi"
+    },
+    {
+      "fr": "40. J'ai perdu mon passeport",
+      "tr": "Mɛnɛ lɛ kɔnɔ pasɛpɔ"
+    },
+    {
+      "fr": "41. Où est l'ambassade ?",
+      "tr": "I tuma ambasadi ?"
+    },
+    {
+      "fr": "42. Je voudrais voir un avocat",
+      "tr": "Mɛnɛ yɛ avɔka"
+    },
+    {
+      "fr": "43. Pouvez-vous m'aider à trouver un notaire ?",
+      "tr": "I kɛ yɛ mɛnɛ notɛr"
+    },
+    {
+      "fr": "44. Je suis à la recherche d'un traducteur",
+      "tr": "Mɛnɛ yɛ tɛ tɛraduktɔ"
+    },
+    {
+      "fr": "45. Pouvez-vous m'aider à trouver un interprète ?",
+      "tr": "I kɛ yɛ mɛnɛ intɛrprɛt"
+    },
+    {
+      "fr": "46. J'ai besoin d'un visa",
+      "tr": "Mɛnɛ kɛ yɛ visa"
+    },
+    {
+      "fr": "47. Où est le consulat ?",
+      "tr": "I tuma konsɔlat ?"
+    },
+    {
+      "fr": "48. Je voudrais voir un consul",
+      "tr": "Mɛnɛ yɛ konsɔl"
+    },
+    {
+      "fr": "49. Pouvez-vous m'aider à trouver un ambassadeur ?",
+      "tr": "I kɛ yɛ mɛnɛ ambasadi"
+    },
+    {
+      "fr": "50. Je suis à la recherche d'un service diplomatique",
+      "tr": "Mɛnɛ yɛ tɛ dɔiplɔmatik"
     }
   ]
 }
