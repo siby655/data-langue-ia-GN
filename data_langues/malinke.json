@@ -641,200 +641,200 @@
       "tr": "Kolo"
     },
     {
-      "fr": "2. Comment vas-tu ?",
-      "tr": "I ka bena ?"
+      "fr": "2. Comment allez-vous ?",
+      "tr": "I ni sogoma ?"
     },
     {
       "fr": "3. Je m'appelle",
-      "tr": "Mogo ma"
+      "tr": "Mɔgɔ"
     },
     {
-      "fr": "4. Je suis heureux",
-      "tr": "M'ka don"
+      "fr": "4. Je suis fatigué",
+      "tr": "N'da kɛrɛ"
     },
     {
-      "fr": "5. Je suis fatigué",
-      "tr": "M'soro"
+      "fr": "5. J'ai faim",
+      "tr": "N'da yɛrɛ"
     },
     {
       "fr": "6. Je veux manger",
-      "tr": "M'ka golo"
+      "tr": "N'da ka yɛ"
     },
     {
-      "fr": "7. Je veux boire",
-      "tr": "M'ka nin"
+      "fr": "7. Pouvez-vous m'aider ?",
+      "tr": "I bɛn kan ?"
     },
     {
-      "fr": "8. Où est... ?",
-      "tr": "I ka fo ?"
+      "fr": "8. Je suis perdu",
+      "tr": "N'da kɛlɛ"
     },
     {
-      "fr": "9. Je ne sais pas",
-      "tr": "M'ka tara"
+      "fr": "9. Où est... ?",
+      "tr": "Kɔn... ?"
     },
     {
-      "fr": "10. Je suis perdu",
-      "tr": "M'soro fo"
+      "fr": "10. Je ne comprends pas",
+      "tr": "N'da tɛnɛ"
     },
     {
-      "fr": "11. Pouvez-vous m'aider ?",
-      "tr": "I ka kuma ?"
+      "fr": "11. Répétez, s'il vous plaît",
+      "tr": "Yɛnɛ kɛ, alama"
     },
     {
-      "fr": "12. Merci beaucoup",
-      "tr": "I ni ce bara"
+      "fr": "12. Je suis désolé",
+      "tr": "N'da suma"
     },
     {
-      "fr": "13. Excusez-moi",
-      "tr": "M'ka to"
+      "fr": "13. Je suis content",
+      "tr": "N'da kɛlɛma"
     },
     {
-      "fr": "14. Je suis désolé",
-      "tr": "M'ka golo"
+      "fr": "14. Je t'aime",
+      "tr": "N'da yɛrɛ"
     },
     {
-      "fr": "15. Je t'aime",
-      "tr": "M'ka yé"
+      "fr": "15. Je suis heureux",
+      "tr": "N'da kɛlɛma"
     },
     {
-      "fr": "16. Je suis content",
-      "tr": "M'ka don"
+      "fr": "16. Le pays est beau",
+      "tr": "Lugutu dɔnɛ"
     },
     {
-      "fr": "17. Je suis triste",
-      "tr": "M'ka koro"
+      "fr": "17. La vie est difficile",
+      "tr": "Ka dɔnɛ kɛrɛ"
     },
     {
-      "fr": "18. Je suis fâché",
-      "tr": "M'ka goro"
+      "fr": "18. L'argent est rare",
+      "tr": "Kɔrɔ dɔnɛ"
     },
     {
-      "fr": "19. Je suis malade",
-      "tr": "M'soro"
+      "fr": "19. Le temps passe vite",
+      "tr": "Sugulu dɔnɛ"
     },
     {
-      "fr": "20. Je veux aller",
-      "tr": "M'ka ye"
+      "fr": "20. La pluie tombe",
+      "tr": "Sɔrɔ dɔnɛ"
     },
     {
-      "fr": "21. Je veux rester",
-      "tr": "M'ka ka"
+      "fr": "21. Le soleil brille",
+      "tr": "Kɔlɔn dɔnɛ"
     },
     {
-      "fr": "22. Je veux travailler",
-      "tr": "M'ka nyé"
+      "fr": "22. La nuit est noire",
+      "tr": "Dɔnɛ kɛlɛ"
     },
     {
-      "fr": "23. Je veux étudier",
-      "tr": "M'ka kélé"
+      "fr": "23. Le jour est clair",
+      "tr": "Lugutu dɔnɛ"
     },
     {
-      "fr": "24. Je suis un homme",
-      "tr": "Mogo kɛ"
+      "fr": "24. Je dois partir",
+      "tr": "N'da kɛnɛ"
     },
     {
-      "fr": "25. Je suis une femme",
-      "tr": "Mogo muso"
+      "fr": "25. Je vais à l'école",
+      "tr": "N'da ka sabati"
     },
     {
-      "fr": "26. Je suis un enfant",
-      "tr": "Mogo kɔrɔ"
+      "fr": "26. J'ai un problème",
+      "tr": "N'da kɛrɛ"
     },
     {
-      "fr": "27. Je suis un étudiant",
-      "tr": "Mogo kélé"
+      "fr": "27. Je suis malade",
+      "tr": "N'da yɛrɛ"
     },
     {
-      "fr": "28. Je suis un travailleur",
-      "tr": "Mogo nyé"
+      "fr": "28. Je veux aller à l'hôpital",
+      "tr": "N'da ka osuluku"
     },
     {
-      "fr": "29. Je suis un enseignant",
-      "tr": "Mogo kɛlɛ"
+      "fr": "29. Je suis perdu dans la ville",
+      "tr": "N'da kɛlɛ dɔnɛ"
     },
     {
-      "fr": "30. Je suis un médecin",
-      "tr": "Mogo sɔrɔ"
+      "fr": "30. Je cherche un hôtel",
+      "tr": "N'da ka otɛlɛ"
     },
     {
-      "fr": "31. Je suis un avocat",
-      "tr": "Mogo jɛlɛ"
+      "fr": "31. Je veux une chambre",
+      "tr": "N'da ka kɔnɔ"
     },
     {
-      "fr": "32. Je suis un agriculteur",
-      "tr": "Mogo ka fo"
+      "fr": "32. Je suis fatigué de marcher",
+      "tr": "N'da kɛrɛ dɔnɛ"
     },
     {
-      "fr": "33. Je suis un éleveur",
-      "tr": "Mogo kɔrɔ"
+      "fr": "33. Je veux manger du riz",
+      "tr": "N'da ka kaɲɛ"
     },
     {
-      "fr": "34. Je suis un pêcheur",
-      "tr": "Mogo jɛ"
+      "fr": "34. Je bois de l'eau",
+      "tr": "N'da ka dɔ"
     },
     {
-      "fr": "35. Je suis un cuisinier",
-      "tr": "Mogo kɛlɛ"
+      "fr": "35. Je suis assoiffé",
+      "tr": "N'da kɛlɛ"
     },
     {
-      "fr": "36. Je suis un serveur",
-      "tr": "Mogo kɛlɛ"
+      "fr": "36. Je veux une bière",
+      "tr": "N'da ka bʊɾɛ"
     },
     {
-      "fr": "37. Je suis un vendeur",
-      "tr": "Mogo kɛlɛ"
+      "fr": "37. Je suis désolé pour toi",
+      "tr": "N'da suma ɲinɛ"
     },
     {
-      "fr": "38. Je suis un acheteur",
-      "tr": "Mogo kɛlɛ"
+      "fr": "38. Je t'aime beaucoup",
+      "tr": "N'da yɛrɛ ɲinɛ"
     },
     {
-      "fr": "39. Je suis un voyageur",
-      "tr": "Mogo ye"
+      "fr": "39. Je suis heureux de te voir",
+      "tr": "N'da kɛlɛma ɲinɛ"
     },
     {
-      "fr": "40. Je suis un touriste",
-      "tr": "Mogo kɛlɛ"
+      "fr": "40. Je vais t'aider",
+      "tr": "N'da ka ɲɛ"
     },
     {
-      "fr": "41. Je suis un ami",
-      "tr": "M'ka yé"
+      "fr": "41. Je suis là pour toi",
+      "tr": "N'da kɛnɛ ɲinɛ"
     },
     {
-      "fr": "42. Je suis un ennemi",
-      "tr": "M'ka goro"
+      "fr": "42. Je t'apprends quelque chose",
+      "tr": "N'da ka ɲɛnɛ"
     },
     {
-      "fr": "43. Je suis un frère",
-      "tr": "M'ka ka"
+      "fr": "43. Je veux t'écouter",
+      "tr": "N'da ka ɲɛnɛ"
     },
     {
-      "fr": "44. Je suis une sœur",
-      "tr": "M'ka muso"
+      "fr": "44. Je suis désolé de t'avoir blessé",
+      "tr": "N'da suma ɲinɛ"
     },
     {
-      "fr": "45. Je suis un cousin",
-      "tr": "M'ka kɛ"
+      "fr": "45. Je t'aime plus que tout",
+      "tr": "N'da yɛrɛ ɲinɛ"
     },
     {
-      "fr": "46. Je suis une cousine",
-      "tr": "M'ka muso"
+      "fr": "46. Je suis là pour te protéger",
+      "tr": "N'da kɛnɛ ɲinɛ"
     },
     {
-      "fr": "47. Je suis un oncle",
-      "tr": "M'ka ka"
+      "fr": "47. Je veux te aider à résoudre ton problème",
+      "tr": "N'da ka ɲɛ kɛrɛ"
     },
     {
-      "fr": "48. Je suis une tante",
-      "tr": "M'ka muso"
+      "fr": "48. Je suis fatigué de cette situation",
+      "tr": "N'da kɛrɛ dɔnɛ"
     },
     {
-      "fr": "49. Je suis un grand-père",
-      "tr": "M'ka kɛ"
+      "fr": "49. Je veux que nous soyons amis",
+      "tr": "N'da ka ɲɛ ɲinɛ"
     },
     {
-      "fr": "50. Je suis une grand-mère",
-      "tr": "M'ka muso"
+      "fr": "50. Je suis heureux de partager cela avec toi",
+      "tr": "N'da kɛlɛma ɲinɛ"
     }
   ]
 }
