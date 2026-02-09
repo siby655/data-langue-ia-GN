@@ -447,6 +447,102 @@
     {
       "fr": "30. Santé",
       "tr": "Salama"
+    },
+    {
+      "fr": "7. Manger",
+      "tr": "Nimu"
+    },
+    {
+      "fr": "8. Boire",
+      "tr": "Innu"
+    },
+    {
+      "fr": "9. Soleil",
+      "tr": "Suuni"
+    },
+    {
+      "fr": "10. Lune",
+      "tr": "Muu"
+    },
+    {
+      "fr": "11. Terre",
+      "tr": "Ndee"
+    },
+    {
+      "fr": "12. Ciel",
+      "tr": "Kaŋgi"
+    },
+    {
+      "fr": "13. Arbre",
+      "tr": "Bii"
+    },
+    {
+      "fr": "14. Fleuve",
+      "tr": "Debi"
+    },
+    {
+      "fr": "15. Poisson",
+      "tr": "Jeba"
+    },
+    {
+      "fr": "16. École",
+      "tr": "Sukuu"
+    },
+    {
+      "fr": "17. Enseignant",
+      "tr": "Mwalimu"
+    },
+    {
+      "fr": "18. Élève",
+      "tr": "Taleba"
+    },
+    {
+      "fr": "19. Livre",
+      "tr": "Buku"
+    },
+    {
+      "fr": "20. Crayon",
+      "tr": "Kalaami"
+    },
+    {
+      "fr": "21. Table",
+      "tr": "Meza"
+    },
+    {
+      "fr": "22. Chaise",
+      "tr": "Kursi"
+    },
+    {
+      "fr": "23. Porte",
+      "tr": "Gada"
+    },
+    {
+      "fr": "24. Fenêtre",
+      "tr": "Finde"
+    },
+    {
+      "fr": "25. Lit",
+      "tr": "Beddi"
+    },
+    {
+      "fr": "26. Couverture",
+      "tr": "Kawto"
+    },
+    {
+      "fr": "27. Chaussure",
+      "tr": "Butuu"
+    },
+    {
+      "fr": "28. Vélo",
+      "tr": "Silikuli"
+    },
+    {
+      "fr": "29. Voiture",
+      "tr": "Motoo"
+    },
+    {
+      "fr": "30. Avion",
+      "tr": "Jeeburi"
     }
   ]
 }
