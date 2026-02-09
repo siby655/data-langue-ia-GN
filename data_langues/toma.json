@@ -5,63 +5,139 @@
       "tr": "Kɛ̀ɛ̀lɛ"
     },
     {
-      "fr": "2. Merci",
-      "tr": "Aya"
-    },
-    {
-      "fr": "3. Eau",
-      "tr": "Sɔɔ"
-    },
-    {
-      "fr": "4. Maison",
-      "tr": "Gɛ"
-    },
-    {
-      "fr": "5. Famille",
-      "tr": "Kɔlɔ"
-    },
-    {
-      "fr": "6. Ami",
-      "tr": "Bɛlɛ"
-    },
-    {
-      "fr": "7. Manger",
-      "tr": "Dii"
-    },
-    {
-      "fr": "8. Boire",
-      "tr": "Gwa"
-    },
-    {
-      "fr": "9. Soleil",
-      "tr": "Sɔrɔ"
+      "fr": "10. Enfant",
+      "tr": "Kanke"
     },
     {
       "fr": "10. Lune",
       "tr": "Lɛlɛ"
     },
     {
+      "fr": "10. École",
+      "tr": "Sɔkɔ"
+    },
+    {
+      "fr": "10. Étudiant",
+      "tr": "Sukuluba"
+    },
+    {
+      "fr": "11. Enfant",
+      "tr": "Kaŋkɛ"
+    },
+    {
+      "fr": "11. Livre",
+      "tr": "Buku"
+    },
+    {
       "fr": "11. Terre",
       "tr": "Tɔɔ"
+    },
+    {
+      "fr": "11. École",
+      "tr": "Sukulu"
+    },
+    {
+      "fr": "11. Étoile",
+      "tr": "Sɔsɔ"
+    },
+    {
+      "fr": "12. Chaise",
+      "tr": "Kɔnɔ"
     },
     {
       "fr": "12. Ciel",
       "tr": "Sɛlɛ"
     },
     {
+      "fr": "12. Enseignant",
+      "tr": "Karamoko"
+    },
+    {
+      "fr": "12. Femme",
+      "tr": "Pɔɔ"
+    },
+    {
+      "fr": "12. Pluie",
+      "tr": "Sali"
+    },
+    {
+      "fr": "13. Apprendre",
+      "tr": "Barika"
+    },
+    {
       "fr": "13. Arbre",
       "tr": "Ti"
+    },
+    {
+      "fr": "13. Homme",
+      "tr": "Kɛlɛ"
+    },
+    {
+      "fr": "13. Table",
+      "tr": "Meza"
+    },
+    {
+      "fr": "13. Vent",
+      "tr": "Vɛnti"
     },
     {
       "fr": "14. Fleuve",
       "tr": "Sɔ"
     },
     {
+      "fr": "14. Froid",
+      "tr": "Kɔlɔ"
+    },
+    {
+      "fr": "14. Fête",
+      "tr": "Tile"
+    },
+    {
+      "fr": "14. Ordinateur",
+      "tr": "Kɔmpɔtɛ"
+    },
+    {
+      "fr": "14. Village",
+      "tr": "Sɔrɔ"
+    },
+    {
+      "fr": "15. Chaleur",
+      "tr": "Dawa"
+    },
+    {
+      "fr": "15. Forêt",
+      "tr": "Kɔɔ"
+    },
+    {
+      "fr": "15. Musique",
+      "tr": "Nyama"
+    },
+    {
       "fr": "15. Poisson",
       "tr": "Gbɛ"
     },
     {
+      "fr": "15. Téléphone",
+      "tr": "Tilifɔnɛ"
+    },
+    {
+      "fr": "16. Danse",
+      "tr": "Saba"
+    },
+    {
+      "fr": "16. Jour",
+      "tr": "Ti"
+    },
+    {
+      "fr": "16. Maison",
+      "tr": "Fu"
+    },
+    {
       "fr": "16. Oiseau",
+      "tr": "Kɔkɔ"
+    },
+    {
+      "fr": "16. Rivière",
       "tr": "Kɔkɔ"
     },
     {
@@ -69,332 +145,104 @@
       "tr": "Bɛlɛ"
     },
     {
-      "fr": "18. Chat",
-      "tr": "Tiɛ"
-    },
-    {
-      "fr": "19. Maison",
-      "tr": "Gɛ"
-    },
-    {
-      "fr": "20. École",
-      "tr": "Sɛkɔlɔ"
-    },
-    {
-      "fr": "21. Enseignant",
-      "tr": "Kɛkɛlɛ"
-    },
-    {
-      "fr": "22. Élève",
-      "tr": "Gbɛɛ"
-    },
-    {
-      "fr": "23. Livre",
-      "tr": "Buku"
-    },
-    {
-      "fr": "24. Crayon",
-      "tr": "Kɔlɔ"
-    },
-    {
-      "fr": "25. Feuille",
-      "tr": "Gbɛ"
-    },
-    {
-      "fr": "26. Plume",
-      "tr": "Tɛlɛ"
-    },
-    {
-      "fr": "27. Ordinateur",
-      "tr": "Kɔmpitɛ"
-    },
-    {
-      "fr": "28. Téléphone",
-      "tr": "Tɛlɛfɔn"
-    },
-    {
-      "fr": "29. Maison",
-      "tr": "Gɛ"
-    },
-    {
-      "fr": "30. Communauté",
-      "tr": "Kɔlɔsɔ"
-    },
-    {
-      "fr": "Voici 30 mots uniques au format FR",
-      "tr": "TOMA (Guinée) :"
-    },
-    {
-      "fr": "4. Manger",
-      "tr": "Kaŋ"
-    },
-    {
-      "fr": "5. Maison",
-      "tr": "Sɔɔ"
-    },
-    {
-      "fr": "6. Famille",
-      "tr": "Baŋ"
-    },
-    {
-      "fr": "7. Ami",
-      "tr": "Kɛlɛ"
-    },
-    {
-      "fr": "8. Soleil",
-      "tr": "Sɔŋ"
-    },
-    {
-      "fr": "9. Lune",
-      "tr": "Kɛlɛsɔ"
-    },
-    {
-      "fr": "10. École",
-      "tr": "Sɔkɔ"
-    },
-    {
-      "fr": "11. Enfant",
-      "tr": "Kaŋkɛ"
-    },
-    {
-      "fr": "12. Femme",
-      "tr": "Pɔɔ"
-    },
-    {
-      "fr": "13. Homme",
-      "tr": "Kɛlɛ"
-    },
-    {
-      "fr": "14. Village",
-      "tr": "Sɔrɔ"
-    },
-    {
-      "fr": "15. Forêt",
-      "tr": "Kɔɔ"
-    },
-    {
-      "fr": "16. Rivière",
-      "tr": "Kɔkɔ"
-    },
-    {
       "fr": "17. Montagne",
       "tr": "Sɔsɔ"
     },
     {
-      "fr": "18. Froid",
-      "tr": "Kɛŋ"
-    },
-    {
-      "fr": "19. Chaud",
-      "tr": "Sɔŋ"
-    },
-    {
-      "fr": "20. Jour",
-      "tr": "Kɛlɛ"
-    },
-    {
-      "fr": "21. Nuit",
-      "tr": "Sɔ"
-    },
-    {
-      "fr": "22. Mère",
-      "tr": "Ba"
-    },
-    {
-      "fr": "23. Père",
-      "tr": "Ka"
-    },
-    {
-      "fr": "24. Frère",
-      "tr": "Kɛlɛ"
-    },
-    {
-      "fr": "25. Sœur",
-      "tr": "Pɔɔ"
-    },
-    {
-      "fr": "26. Poulet",
-      "tr": "Kɔkɔ"
-    },
-    {
-      "fr": "27. Riz",
-      "tr": "Sɔsɔ"
-    },
-    {
-      "fr": "28. Poisson",
-      "tr": "Kɛlɛ"
-    },
-    {
-      "fr": "29. Banane",
-      "tr": "Kɔŋ"
-    },
-    {
-      "fr": "30. Maïs",
-      "tr": "Sɔkɔ"
-    },
-    {
-      "fr": "8. École",
-      "tr": "Sukulu"
-    },
-    {
-      "fr": "9. Enseignant",
-      "tr": "Kɛlɛma"
-    },
-    {
-      "fr": "10. Étudiant",
-      "tr": "Sukuluba"
-    },
-    {
-      "fr": "11. Livre",
-      "tr": "Buku"
-    },
-    {
-      "fr": "12. Chaise",
-      "tr": "Kɔnɔ"
-    },
-    {
-      "fr": "13. Table",
-      "tr": "Meza"
-    },
-    {
-      "fr": "14. Ordinateur",
-      "tr": "Kɔmpɔtɛ"
-    },
-    {
-      "fr": "15. Téléphone",
-      "tr": "Tilifɔnɛ"
-    },
-    {
-      "fr": "16. Maison",
-      "tr": "Fu"
-    },
-    {
-      "fr": "17. Village",
-      "tr": "Kɔlɔ"
-    },
-    {
-      "fr": "18. Ville",
-      "tr": "Duguba"
-    },
-    {
-      "fr": "19. Route",
-      "tr": "Sɔsɔ"
-    },
-    {
-      "fr": "20. Voiture",
-      "tr": "Moto"
-    },
-    {
-      "fr": "21. Médicament",
-      "tr": "Dɔwɔ"
-    },
-    {
-      "fr": "22. Hôpital",
-      "tr": "Sɔsɔwɔ"
-    },
-    {
-      "fr": "23. Médecin",
-      "tr": "Dɔkɔtɔ"
-    },
-    {
-      "fr": "24. Infirmière",
-      "tr": "Sɔsɔwɔba"
-    },
-    {
-      "fr": "25. Maladie",
-      "tr": "Dɔwɔ"
-    },
-    {
-      "fr": "26. Médicament",
-      "tr": "Dɔwɔ"
-    },
-    {
-      "fr": "27. Santé",
-      "tr": "Sɔgɔ"
-    },
-    {
-      "fr": "28. Enfant",
-      "tr": "Ba"
-    },
-    {
-      "fr": "29. Femme",
-      "tr": "Mɔgɔ"
-    },
-    {
-      "fr": "30. Homme",
-      "tr": "Kɛlɛ"
-    },
-    {
-      "fr": "Voici 30 mots uniques en format FR",
-      "tr": "TOMA (Guinée) :"
-    },
-    {
-      "fr": "2. Manger",
-      "tr": "Nyam"
-    },
-    {
-      "fr": "5. Amour",
-      "tr": "Sogan"
-    },
-    {
-      "fr": "6. Joie",
-      "tr": "Kebé"
-    },
-    {
-      "fr": "7. Soleil",
-      "tr": "Suli"
-    },
-    {
-      "fr": "8. Lune",
-      "tr": "Talé"
-    },
-    {
-      "fr": "9. Famille",
-      "tr": "Kabila"
-    },
-    {
-      "fr": "10. Enfant",
-      "tr": "Kanke"
-    },
-    {
-      "fr": "11. École",
-      "tr": "Sukulu"
-    },
-    {
-      "fr": "12. Enseignant",
-      "tr": "Karamoko"
-    },
-    {
-      "fr": "13. Apprendre",
-      "tr": "Barika"
-    },
-    {
-      "fr": "14. Fête",
-      "tr": "Tile"
-    },
-    {
-      "fr": "15. Musique",
-      "tr": "Nyama"
-    },
-    {
-      "fr": "16. Danse",
-      "tr": "Saba"
+      "fr": "17. Nuit",
+      "tr": "Sɛ"
     },
     {
       "fr": "17. Vie",
       "tr": "Moro"
     },
     {
+      "fr": "17. Village",
+      "tr": "Kɔlɔ"
+    },
+    {
+      "fr": "18. Chat",
+      "tr": "Tiɛ"
+    },
+    {
+      "fr": "18. Froid",
+      "tr": "Kɛŋ"
+    },
+    {
       "fr": "18. Mort",
       "tr": "Kosi"
+    },
+    {
+      "fr": "18. Rire",
+      "tr": "Lɛlɛ"
+    },
+    {
+      "fr": "18. Ville",
+      "tr": "Duguba"
+    },
+    {
+      "fr": "19. Chaud",
+      "tr": "Sɔŋ"
+    },
+    {
+      "fr": "19. Maison",
+      "tr": "Gɛ"
+    },
+    {
+      "fr": "19. Pleurer",
+      "tr": "Wɔ"
+    },
+    {
+      "fr": "19. Route",
+      "tr": "Sɔsɔ"
     },
     {
       "fr": "19. Rêve",
       "tr": "Suno"
     },
     {
+      "fr": "2. Manger",
+      "tr": "Nyam"
+    },
+    {
+      "fr": "2. Merci",
+      "tr": "Aya"
+    },
+    {
+      "fr": "20. Chanson",
+      "tr": "Kɛlɛ"
+    },
+    {
       "fr": "20. Espoir",
       "tr": "Folon"
+    },
+    {
+      "fr": "20. Jour",
+      "tr": "Kɛlɛ"
+    },
+    {
+      "fr": "20. Voiture",
+      "tr": "Moto"
+    },
+    {
+      "fr": "20. École",
+      "tr": "Sɛkɔlɔ"
+    },
+    {
+      "fr": "21. Danse",
+      "tr": "Dansa"
+    },
+    {
+      "fr": "21. Enseignant",
+      "tr": "Kɛkɛlɛ"
+    },
+    {
+      "fr": "21. Médicament",
+      "tr": "Dɔwɔ"
+    },
+    {
+      "fr": "21. Nuit",
+      "tr": "Sɔ"
     },
     {
       "fr": "21. Paix",
@@ -405,128 +253,280 @@
       "tr": "Faso"
     },
     {
-      "fr": "23. Liberté",
-      "tr": "Yere"
-    },
-    {
-      "fr": "24. Égalité",
-      "tr": "Kelen"
-    },
-    {
-      "fr": "25. Fraternité",
-      "tr": "Kabila"
-    },
-    {
-      "fr": "26. Terre",
-      "tr": "Falé"
-    },
-    {
-      "fr": "27. Forêt",
-      "tr": "Sili"
-    },
-    {
-      "fr": "28. Rivière",
-      "tr": "Bani"
-    },
-    {
-      "fr": "29. Montagne",
-      "tr": "Fouta"
-    },
-    {
-      "fr": "30. Mer",
-      "tr": "Wourou"
-    },
-    {
-      "fr": "6. Amour",
-      "tr": "Ina"
-    },
-    {
-      "fr": "7. Joie",
-      "tr": "Sɛrɛ"
-    },
-    {
-      "fr": "8. Beauté",
-      "tr": "Kɛlɛ"
-    },
-    {
-      "fr": "11. Étoile",
-      "tr": "Sɔsɔ"
-    },
-    {
-      "fr": "12. Pluie",
-      "tr": "Sali"
-    },
-    {
-      "fr": "13. Vent",
-      "tr": "Vɛnti"
-    },
-    {
-      "fr": "14. Froid",
-      "tr": "Kɔlɔ"
-    },
-    {
-      "fr": "15. Chaleur",
-      "tr": "Dawa"
-    },
-    {
-      "fr": "16. Jour",
-      "tr": "Ti"
-    },
-    {
-      "fr": "17. Nuit",
-      "tr": "Sɛ"
-    },
-    {
-      "fr": "18. Rire",
-      "tr": "Lɛlɛ"
-    },
-    {
-      "fr": "19. Pleurer",
-      "tr": "Wɔ"
-    },
-    {
-      "fr": "20. Chanson",
-      "tr": "Kɛlɛ"
-    },
-    {
-      "fr": "21. Danse",
-      "tr": "Dansa"
+      "fr": "22. Hôpital",
+      "tr": "Sɔsɔwɔ"
     },
     {
       "fr": "22. Musique",
       "tr": "Muziki"
     },
     {
+      "fr": "22. Mère",
+      "tr": "Ba"
+    },
+    {
+      "fr": "22. Élève",
+      "tr": "Gbɛɛ"
+    },
+    {
       "fr": "23. Fête",
       "tr": "Fɛta"
+    },
+    {
+      "fr": "23. Liberté",
+      "tr": "Yere"
+    },
+    {
+      "fr": "23. Livre",
+      "tr": "Buku"
+    },
+    {
+      "fr": "23. Médecin",
+      "tr": "Dɔkɔtɔ"
+    },
+    {
+      "fr": "23. Père",
+      "tr": "Ka"
+    },
+    {
+      "fr": "24. Crayon",
+      "tr": "Kɔlɔ"
+    },
+    {
+      "fr": "24. Frère",
+      "tr": "Kɛlɛ"
+    },
+    {
+      "fr": "24. Infirmière",
+      "tr": "Sɔsɔwɔba"
     },
     {
       "fr": "24. Voyage",
       "tr": "Vwɛ"
     },
     {
+      "fr": "24. Égalité",
+      "tr": "Kelen"
+    },
+    {
+      "fr": "25. Feuille",
+      "tr": "Gbɛ"
+    },
+    {
+      "fr": "25. Fraternité",
+      "tr": "Kabila"
+    },
+    {
       "fr": "25. Liberté",
       "tr": "Libɛte"
+    },
+    {
+      "fr": "25. Maladie",
+      "tr": "Dɔwɔ"
+    },
+    {
+      "fr": "25. Sœur",
+      "tr": "Pɔɔ"
     },
     {
       "fr": "26. Espoir",
       "tr": "Hopo"
     },
     {
+      "fr": "26. Médicament",
+      "tr": "Dɔwɔ"
+    },
+    {
+      "fr": "26. Plume",
+      "tr": "Tɛlɛ"
+    },
+    {
+      "fr": "26. Poulet",
+      "tr": "Kɔkɔ"
+    },
+    {
+      "fr": "26. Terre",
+      "tr": "Falé"
+    },
+    {
       "fr": "27. Bonheur",
       "tr": "Bonɛ"
+    },
+    {
+      "fr": "27. Forêt",
+      "tr": "Sili"
+    },
+    {
+      "fr": "27. Ordinateur",
+      "tr": "Kɔmpitɛ"
+    },
+    {
+      "fr": "27. Riz",
+      "tr": "Sɔsɔ"
+    },
+    {
+      "fr": "27. Santé",
+      "tr": "Sɔgɔ"
     },
     {
       "fr": "28. Amitié",
       "tr": "Amisia"
     },
     {
+      "fr": "28. Enfant",
+      "tr": "Ba"
+    },
+    {
+      "fr": "28. Poisson",
+      "tr": "Kɛlɛ"
+    },
+    {
+      "fr": "28. Rivière",
+      "tr": "Bani"
+    },
+    {
+      "fr": "28. Téléphone",
+      "tr": "Tɛlɛfɔn"
+    },
+    {
+      "fr": "29. Banane",
+      "tr": "Kɔŋ"
+    },
+    {
+      "fr": "29. Femme",
+      "tr": "Mɔgɔ"
+    },
+    {
+      "fr": "29. Maison",
+      "tr": "Gɛ"
+    },
+    {
+      "fr": "29. Montagne",
+      "tr": "Fouta"
+    },
+    {
       "fr": "29. Respect",
       "tr": "Risɛ"
     },
     {
+      "fr": "3. Eau",
+      "tr": "Sɔɔ"
+    },
+    {
+      "fr": "30. Communauté",
+      "tr": "Kɔlɔsɔ"
+    },
+    {
+      "fr": "30. Homme",
+      "tr": "Kɛlɛ"
+    },
+    {
+      "fr": "30. Maïs",
+      "tr": "Sɔkɔ"
+    },
+    {
+      "fr": "30. Mer",
+      "tr": "Wourou"
+    },
+    {
       "fr": "30. Sagesse",
       "tr": "Sɛgɛsɛ"
+    },
+    {
+      "fr": "4. Maison",
+      "tr": "Gɛ"
+    },
+    {
+      "fr": "4. Manger",
+      "tr": "Kaŋ"
+    },
+    {
+      "fr": "5. Amour",
+      "tr": "Sogan"
+    },
+    {
+      "fr": "5. Famille",
+      "tr": "Kɔlɔ"
+    },
+    {
+      "fr": "5. Maison",
+      "tr": "Sɔɔ"
+    },
+    {
+      "fr": "6. Ami",
+      "tr": "Bɛlɛ"
+    },
+    {
+      "fr": "6. Amour",
+      "tr": "Ina"
+    },
+    {
+      "fr": "6. Famille",
+      "tr": "Baŋ"
+    },
+    {
+      "fr": "6. Joie",
+      "tr": "Kebé"
+    },
+    {
+      "fr": "7. Ami",
+      "tr": "Kɛlɛ"
+    },
+    {
+      "fr": "7. Joie",
+      "tr": "Sɛrɛ"
+    },
+    {
+      "fr": "7. Manger",
+      "tr": "Dii"
+    },
+    {
+      "fr": "7. Soleil",
+      "tr": "Suli"
+    },
+    {
+      "fr": "8. Beauté",
+      "tr": "Kɛlɛ"
+    },
+    {
+      "fr": "8. Boire",
+      "tr": "Gwa"
+    },
+    {
+      "fr": "8. Lune",
+      "tr": "Talé"
+    },
+    {
+      "fr": "8. Soleil",
+      "tr": "Sɔŋ"
+    },
+    {
+      "fr": "8. École",
+      "tr": "Sukulu"
+    },
+    {
+      "fr": "9. Enseignant",
+      "tr": "Kɛlɛma"
+    },
+    {
+      "fr": "9. Famille",
+      "tr": "Kabila"
+    },
+    {
+      "fr": "9. Lune",
+      "tr": "Kɛlɛsɔ"
+    },
+    {
+      "fr": "9. Soleil",
+      "tr": "Sɔrɔ"
+    },
+    {
+      "fr": "Voici 30 mots uniques au format FR",
+      "tr": "TOMA (Guinée) :"
+    },
+    {
+      "fr": "Voici 30 mots uniques en format FR",
+      "tr": "TOMA (Guinée) :"
     }
   ]
 }
