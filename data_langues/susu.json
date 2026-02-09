@@ -1,3 +1,124 @@
 {
-  "entries": []
+  "entries": [
+    {
+      "fr": "1. Bonjour",
+      "tr": "Kɛnɛ"
+    },
+    {
+      "fr": "2. Merci",
+      "tr": "Mɛsi"
+    },
+    {
+      "fr": "3. Eau",
+      "tr": "Waa"
+    },
+    {
+      "fr": "4. Maison",
+      "tr": "Dunu"
+    },
+    {
+      "fr": "5. Famille",
+      "tr": "Faamili"
+    },
+    {
+      "fr": "6. Riz",
+      "tr": "Rizi"
+    },
+    {
+      "fr": "7. Poulet",
+      "tr": "Kɔkɔ"
+    },
+    {
+      "fr": "8. Bœuf",
+      "tr": "Ngooni"
+    },
+    {
+      "fr": "9. Poisson",
+      "tr": "Sɛɛ"
+    },
+    {
+      "fr": "10. Légume",
+      "tr": "Kɛnɛkɛ"
+    },
+    {
+      "fr": "11. Fruit",
+      "tr": "Fɛɛ"
+    },
+    {
+      "fr": "12. École",
+      "tr": "Sukulu"
+    },
+    {
+      "fr": "13. Enseignant",
+      "tr": "Mɔɔnɔ"
+    },
+    {
+      "fr": "14. Étudiant",
+      "tr": "Sukulɛ"
+    },
+    {
+      "fr": "15. Ami",
+      "tr": "Saba"
+    },
+    {
+      "fr": "16. Famille",
+      "tr": "Faamili"
+    },
+    {
+      "fr": "17. Village",
+      "tr": "Kɔlɔ"
+    },
+    {
+      "fr": "18. Ville",
+      "tr": "Dɔkɔ"
+    },
+    {
+      "fr": "19. Route",
+      "tr": "Sɛrɛ"
+    },
+    {
+      "fr": "20. Voiture",
+      "tr": "Mɔtɔ"
+    },
+    {
+      "fr": "21. Pièce",
+      "tr": "Pesɛ"
+    },
+    {
+      "fr": "22. Maison",
+      "tr": "Dunu"
+    },
+    {
+      "fr": "23. Jardin",
+      "tr": "Kalɛ"
+    },
+    {
+      "fr": "24. Plante",
+      "tr": "Kɛnɛ"
+    },
+    {
+      "fr": "25. Fleur",
+      "tr": "Fɛɛrɛ"
+    },
+    {
+      "fr": "26. Arbre",
+      "tr": "Bɔbɔ"
+    },
+    {
+      "fr": "27. Rivière",
+      "tr": "Dɔkɔ"
+    },
+    {
+      "fr": "28. Montagne",
+      "tr": "Kɔnɔ"
+    },
+    {
+      "fr": "29. Ciel",
+      "tr": "Sɛlɛ"
+    },
+    {
+      "fr": "30. Terre",
+      "tr": "Tɛrɛ"
+    }
+  ]
 }
