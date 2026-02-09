@@ -121,104 +121,212 @@
       "tr": "Tɛrɛ"
     },
     {
-      "fr": "6. Amour",
-      "tr": "Lō"
+      "fr": "6. Ami",
+      "tr": "Abé"
     },
     {
-      "fr": "7. Joie",
-      "tr": "Dɛ̀n"
+      "fr": "7. Manger",
+      "tr": "Nyama"
     },
     {
-      "fr": "8. Pluie",
-      "tr": "Sɛ̀"
+      "fr": "8. Boire",
+      "tr": "Yémè"
     },
     {
-      "fr": "9. Soleil",
-      "tr": "Wuli"
+      "fr": "9. Petit",
+      "tr": "Kété"
     },
     {
-      "fr": "10. Lune",
-      "tr": "Kɔlɔ"
+      "fr": "10. Grand",
+      "tr": "Gbanti"
     },
     {
-      "fr": "11. Terre",
-      "tr": "Tɛ"
+      "fr": "11. Fille",
+      "tr": "Musu"
     },
     {
-      "fr": "12. Ciel",
-      "tr": "Sɛ̀rɛ"
+      "fr": "12. Garçon",
+      "tr": "Ké"
     },
     {
-      "fr": "13. Feu",
-      "tr": "Fɔ"
+      "fr": "13. École",
+      "tr": "Sukulu"
     },
     {
-      "fr": "14. Espace",
-      "tr": "Sàmà"
+      "fr": "14. Enseignant",
+      "tr": "Titu"
     },
     {
-      "fr": "15. Voyage",
-      "tr": "Sɛ̀rɛ"
+      "fr": "15. Étudiant",
+      "tr": "Sukulé"
     },
     {
-      "fr": "16. Histoire",
-      "tr": "Tàri"
+      "fr": "16. Livre",
+      "tr": "Buku"
     },
     {
-      "fr": "17. Musique",
-      "tr": "Mɔ̀si"
+      "fr": "17. Maison",
+      "tr": "Lé"
     },
     {
-      "fr": "18. Danse",
-      "tr": "Dɛ̀nsi"
+      "fr": "18. Village",
+      "tr": "Sukulu"
     },
     {
-      "fr": "19. Poème",
-      "tr": "Pɛ̀mɛ"
+      "fr": "19. Ville",
+      "tr": "Tati"
     },
     {
-      "fr": "20. Rêve",
-      "tr": "Rɛ̀vɛ"
+      "fr": "20. Route",
+      "tr": "Lawal"
     },
     {
-      "fr": "21. Espoir",
-      "tr": "Sɛ̀pɔ"
+      "fr": "21. Voiture",
+      "tr": "Moto"
     },
     {
-      "fr": "22. Bonheur",
-      "tr": "Bɔ̀nhɛ"
+      "fr": "22. Marché",
+      "tr": "Masi"
     },
     {
-      "fr": "23. Paix",
-      "tr": "Pɛ̀"
+      "fr": "23. Acheter",
+      "tr": "Bula"
     },
     {
-      "fr": "24. Amitié",
-      "tr": "Mɛ̀ti"
+      "fr": "24. Vendeur",
+      "tr": "Bébé"
     },
     {
-      "fr": "25. Solidarité",
-      "tr": "Sɔ̀lidari"
+      "fr": "25. Riz",
+      "tr": "Ris"
     },
     {
-      "fr": "26. Éducation",
-      "tr": "Ɛdùkasɔ̀n"
+      "fr": "26. Poulet",
+      "tr": "Yassa"
     },
     {
-      "fr": "27. Santé",
-      "tr": "Sɛ̀ntɛ"
+      "fr": "27. Poisson",
+      "tr": "Písi"
     },
     {
-      "fr": "28. Fête",
-      "tr": "Fɛ̀tɛ"
+      "fr": "28. Fleur",
+      "tr": "Banti"
     },
     {
-      "fr": "29. Culture",
-      "tr": "Kùltù"
+      "fr": "29. Arbre",
+      "tr": "Béré"
     },
     {
-      "fr": "30. Liberté",
-      "tr": "Libɛ̀rtɛ"
+      "fr": "30. Soleil",
+      "tr": "Kulé"
+    },
+    {
+      "fr": "4. Manger",
+      "tr": "Ka"
+    },
+    {
+      "fr": "5. Maison",
+      "tr": "Kɛ"
+    },
+    {
+      "fr": "6. Famille",
+      "tr": "Kaŋ"
+    },
+    {
+      "fr": "7. Ami",
+      "tr": "Fɛrɛ"
+    },
+    {
+      "fr": "8. École",
+      "tr": "Sulɛ"
+    },
+    {
+      "fr": "9. Enseignant",
+      "tr": "Kɛlɛsɛ"
+    },
+    {
+      "fr": "10. Étudiant",
+      "tr": "Sulɛkɛ"
+    },
+    {
+      "fr": "11. Livre",
+      "tr": "Buku"
+    },
+    {
+      "fr": "12. Ordinateur",
+      "tr": "Kɔmpytɛ"
+    },
+    {
+      "fr": "13. Téléphone",
+      "tr": "Telɛfon"
+    },
+    {
+      "fr": "14. Voiture",
+      "tr": "Motɔ"
+    },
+    {
+      "fr": "15. Avion",
+      "tr": "Aviyɔn"
+    },
+    {
+      "fr": "16. Hôpital",
+      "tr": "Sɔsɔtɛ"
+    },
+    {
+      "fr": "17. Docteur",
+      "tr": "Doktɛ"
+    },
+    {
+      "fr": "18. Médecine",
+      "tr": "Medisi"
+    },
+    {
+      "fr": "19. Santé",
+      "tr": "Sɛnɛ"
+    },
+    {
+      "fr": "20. Sports",
+      "tr": "Espɔ"
+    },
+    {
+      "fr": "21. Football",
+      "tr": "Fotɛbɔl"
+    },
+    {
+      "fr": "22. Musique",
+      "tr": "Muzik"
+    },
+    {
+      "fr": "23. Danse",
+      "tr": "Dansɛ"
+    },
+    {
+      "fr": "24. Célébration",
+      "tr": "Selebrasi"
+    },
+    {
+      "fr": "25. Fête",
+      "tr": "Fɛtɛ"
+    },
+    {
+      "fr": "26. Anniversaire",
+      "tr": "Anivɛrsɛ"
+    },
+    {
+      "fr": "27. Mariage",
+      "tr": "Mariyajɛ"
+    },
+    {
+      "fr": "28. Amitié",
+      "tr": "Amitiɛ"
+    },
+    {
+      "fr": "29. Solidarité",
+      "tr": "Solidaritɛ"
+    },
+    {
+      "fr": "30. Espoir",
+      "tr": "Espwa"
     }
   ]
 }
