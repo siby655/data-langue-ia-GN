@@ -431,6 +431,126 @@
     {
       "fr": "30. Hôpital",
       "tr": "Osuwali"
+    },
+    {
+      "fr": "1. Eau",
+      "tr": "Jelima"
+    },
+    {
+      "fr": "2. Maison",
+      "tr": "So"
+    },
+    {
+      "fr": "3. Arbuste",
+      "tr": "Dɔn"
+    },
+    {
+      "fr": "4. Riz",
+      "tr": "Mɛ"
+    },
+    {
+      "fr": "5. Viande",
+      "tr": "Nyama"
+    },
+    {
+      "fr": "6. Poisson",
+      "tr": "Jɛlɛ"
+    },
+    {
+      "fr": "7. Fruits",
+      "tr": "Fɔli"
+    },
+    {
+      "fr": "8. Légumes",
+      "tr": "Kɔlɔ"
+    },
+    {
+      "fr": "9. Poulet",
+      "tr": "Kuku"
+    },
+    {
+      "fr": "10. Chèvre",
+      "tr": "Baa"
+    },
+    {
+      "fr": "11. Vache",
+      "tr": "Ngolo"
+    },
+    {
+      "fr": "12. Cheval",
+      "tr": "Sɔrɔ"
+    },
+    {
+      "fr": "13. Manger",
+      "tr": "Ka"
+    },
+    {
+      "fr": "14. Boire",
+      "tr": "Nyi"
+    },
+    {
+      "fr": "15. Dormir",
+      "tr": "Sugu"
+    },
+    {
+      "fr": "16. Rêver",
+      "tr": "Dɛmɛ"
+    },
+    {
+      "fr": "17. Froid",
+      "tr": "Kɔrɔ"
+    },
+    {
+      "fr": "18. Chaud",
+      "tr": "Jɛ"
+    },
+    {
+      "fr": "19. Jour",
+      "tr": "Tile"
+    },
+    {
+      "fr": "20. Nuit",
+      "tr": "Sigɛ"
+    },
+    {
+      "fr": "21. Lune",
+      "tr": "Kɛlɛ"
+    },
+    {
+      "fr": "22. Soleil",
+      "tr": "Jɛlɛ"
+    },
+    {
+      "fr": "23. Terre",
+      "tr": "Dɔ"
+    },
+    {
+      "fr": "24. Ciel",
+      "tr": "Kɔkɔ"
+    },
+    {
+      "fr": "25. Etoile",
+      "tr": "Sɛnɛ"
+    },
+    {
+      "fr": "26. Vent",
+      "tr": "Kɔlɔ"
+    },
+    {
+      "fr": "27. Pluie",
+      "tr": "Dɔn"
+    },
+    {
+      "fr": "28. Foudre",
+      "tr": "Kɛmɛ"
+    },
+    {
+      "fr": "29. Tonnerre",
+      "tr": "Wɔlɔ"
+    },
+    {
+      "fr": "30. Feu",
+      "tr": "Kɔnɔ"
     }
   ]
 }
