@@ -6241,6 +6241,42 @@
         {
           "fr": "19. Voiture",
           "susu": "Gbaka"
+        },
+        {
+          "fr": "5. Faim",
+          "susu": "Yiri"
+        },
+        {
+          "fr": "6. Maison",
+          "susu": "Suku"
+        },
+        {
+          "fr": "8. Ami",
+          "susu": "Saba"
+        },
+        {
+          "fr": "14. Riz",
+          "susu": "Misi"
+        },
+        {
+          "fr": "16. Viande",
+          "susu": "Nyama"
+        },
+        {
+          "fr": "17. Fruits",
+          "susu": "Bukuli"
+        },
+        {
+          "fr": "18. Légumes",
+          "susu": "Sosoli"
+        },
+        {
+          "fr": "19. Boire",
+          "susu": "Nyon"
+        },
+        {
+          "fr": "20. Dormir",
+          "susu": "Sigi"
         }
       ]
     }
