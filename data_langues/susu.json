@@ -423,6 +423,82 @@
     {
       "fr": "30. Sœur",
       "tr": "Kɛkɛ"
+    },
+    {
+      "fr": "11. Étoile",
+      "tr": "Sɛlɛ"
+    },
+    {
+      "fr": "12. Terre",
+      "tr": "Kɔlɔ"
+    },
+    {
+      "fr": "13. Arbre",
+      "tr": "Dɔŋɔ"
+    },
+    {
+      "fr": "14. Oiseau",
+      "tr": "Kɛkɛ"
+    },
+    {
+      "fr": "15. Poisson",
+      "tr": "Sɛbɛ"
+    },
+    {
+      "fr": "16. Viande",
+      "tr": "Nyama"
+    },
+    {
+      "fr": "17. Fruits",
+      "tr": "Falɛ"
+    },
+    {
+      "fr": "18. Légumes",
+      "tr": "Kɛlɛ"
+    },
+    {
+      "fr": "19. Riz",
+      "tr": "Mɔsɔ"
+    },
+    {
+      "fr": "20. Maïs",
+      "tr": "Kɔndɔ"
+    },
+    {
+      "fr": "22. Chèvre",
+      "tr": "Bɛnɛ"
+    },
+    {
+      "fr": "23. Vache",
+      "tr": "Sɔkɔ"
+    },
+    {
+      "fr": "24. Cheval",
+      "tr": "Sɛrɛ"
+    },
+    {
+      "fr": "25. Moto",
+      "tr": "Mɔtɔ"
+    },
+    {
+      "fr": "26. Voiture",
+      "tr": "Kɛrɛ"
+    },
+    {
+      "fr": "27. Avion",
+      "tr": "Sɛlɛnɛ"
+    },
+    {
+      "fr": "28. École",
+      "tr": "Sɔkɔlɛ"
+    },
+    {
+      "fr": "29. Hôpital",
+      "tr": "Lɔsɔtɔ"
+    },
+    {
+      "fr": "30. Église",
+      "tr": "Sɛlɛsɛ"
     }
   ]
 }
